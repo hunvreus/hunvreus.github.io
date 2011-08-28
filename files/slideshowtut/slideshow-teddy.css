@@ -1,0 +1,37 @@
+.slideshow {
+  height: 220px;
+  width: 350px;
+  margin: 0;
+  position: relative;
+}
+
+.slide {
+  position: relative;
+  height: 220px;
+}
+
+.slideshow .slide {
+  position: absolute;
+}
+
+#content .slide img {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.slide .tagline {
+  background: #000;
+  color: #fff;
+  filter: alpha(opacity = 75);
+  font-size: 14px;
+  opacity: 0.75;
+  position: absolute;
+  bottom: 0;
+  width: 350px;
+}
+
+.slide .tagline p {	
+  margin: 0;
+  padding: 7px 10px;
+}

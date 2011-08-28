@@ -1,0 +1,54 @@
+var slideshow_play = true;
+var slideshow_view_id = 'slideshow_featured'; // The View id
+
+$(document).ready(function() {
+  // For each slide we are going to add a link that reveals it
+  $('.view-id-slideshow_featured .view-content').each(function() {
+    var slideshow = $(this);
+    var number = 0;
+    var pager = $('<div class="slideshow-pager">')
+    $(this).children('div').each(function() {
+      var slide = $(this);
+      number++;
+      var link = $('<a>'+ number +'</a>');
+      pager.append(link);
+      link.click(function() {
+        // When we selected a slide we don't want to play the slideshow anymore
+        slideshow_play = false;
+        // Move the slide at the top of the stack and reveals it
+        slide.hide();
+	    slideshow.append(slide);
+        // Move the active class on the link of the current slide
+        pager.children('.active').removeClass('active');
+        $(this).addClass('active');
+        slide.fadeIn('slow');
+      });
+    });
+    // We add the pager if necessary
+    if (number) slideshow.after(pager);
+  });
+
+  // Run it once to initialize on the first slide
+  switchSlide();
+  // Every six seconds execute the switchSlide() function
+  setInterval( "switchSlide()", 6000);
+});
+
+/**
+ * Switch from one slide to the next one
+ */
+function switchSlide() {
+  if (slideshow_play) {
+    var slideshow = $('.view-id-'+ slideshow_view_id +' .view-content');
+    var slide = $('.view-id-'+ slideshow_view_id +' .view-content > div:first');
+    var pager = $('.view-id-'+ slideshow_view_id +' .slideshow-pager');
+    // Move the slide at the top of the stack and reveals it
+    slide.hide();
+    slideshow.append(slide);
+
+    // Move the active class on the link of the current slide
+    pager.children('.active').removeClass('active').next('a').addClass('active');
+    if (!pager.children('.active').length) pager.children('a:first').addClass('active');
+    slide.fadeIn('slow');
+  }
+}

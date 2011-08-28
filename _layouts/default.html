@@ -1,32 +1,55 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link href="/stylesheets/default.css?9" rel="stylesheet" type="text/css">
-    <link href="/stylesheets/highlight.css?9" rel="stylesheet" type="text/css">
-    <link href="http://feeds2.feedburner.com/tatejohnson" rel="alternate" title="Tate Johnson" type="application/atom+xml">
-    <link href='/images/favicon.ico' rel='shortcut icon' type='image/ico'>
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-8340632-1']);
-      _gaq.push(['_trackPageview']);
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-    </script>
-  </head>
-  <body>
-    <h1><a href="{{ base.url }}/">tatey<span>.</span>com</a></h1>
-    <nav>
-      <ul>
-        <li><a href="{{ base.url }}/">Blog</a></li>
-        <li><a href="{{ base.url }}/projects/">Projects</a></li>
-        <li><a href="{{ base.url }}/about/">About</a></li>
-      </ul>
-    </nav>
-    {{ content }}
-  </body>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+  <title>{{ page.title }}</title>
+
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <meta name="description" content="Ronan Berder's blog; rambles about entrepreneurship, China and Open Source...">
+  <meta name="author" content="Ronan Berder">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- CSS -->
+  <link href="/stylesheets/base.css" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/skeleton.css" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/layout.css" rel="stylesheet" type="text/css">
+  <link href="http://yandex.st/highlightjs/5.16/styles/zenburn.min.css" rel="stylesheet" type="text/css" media="all" />
+
+  <!-- JS -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+  <script src="http://yandex.st/highlightjs/5.16/highlight.min.js?looem3" type="text/javascript"></script>
+  <script type="text/javascript">(function($) { hljs.initHighlightingOnLoad(); })(jQuery);</script>
+
+  <!-- RSS -->
+  <link href="http://feeds2.feedburner.com/tatejohnson" rel="alternate" title="Tate Johnson" type="application/atom+xml">
+
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+</head>
+<body>
+  <div class="container">
+	<div class="twelve columns content">
+      {{ content }}
+    </div>
+
+    <div class="three columns sidebar offset-by-one">
+      <nav>
+        <h1><a href="{{ base.url }}/">teddy.fr</a></h1>
+        <ul>
+          <li><a href="{{ base.url }}/">Blog</a></li>
+          <li><a href="{{ base.url }}/projects/">Projects</a></li>
+          <li><a href="{{ base.url }}/about/">About</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</body>
 </html>

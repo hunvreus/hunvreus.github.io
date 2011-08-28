@@ -1,0 +1,161 @@
+/**
+ * Messages & System status
+ */
+div.status,
+div.error,
+div.warning {
+  border: 0;
+  margin: 10px 0;
+  padding: 7px 10px 5px 10px;
+}
+
+div.status,
+table.system-status-report tr.ok {
+  background: #D8FFA3;
+  color: #2E5B02;
+}
+
+div.error,
+table.system-status-report tr.error {
+  background: #FFC4C1;
+  color: #A40000;
+}
+
+div.warning,
+table.system-status-report tr.warning {
+  color: #B14300;
+  background-color: #FFED7B;
+}
+
+.messages ul,
+.password-description ul {
+  margin:0;
+  padding:0;
+}
+
+.messages li,
+.password-description li {
+  background: transparent no-repeat left top;
+  margin: 0;
+  padding: 0;
+  padding-left:20px;
+  list-style: none;
+}
+
+div.status li,
+table.system-status-report tr.ok th {
+  background-image: url(../images/icon-ok.png);
+}
+
+div.error li,
+table.system-status-report tr.error th {
+  background-image: url(../images/icon-error.png);
+}
+
+div.warning li,
+table.system-status-report tr.warning th {
+  background-image: url(../images/icon-warning.png);
+}
+
+/**
+ * Logs
+ */
+table#admin-dblog tr.dblog-notice td,
+table#admin-dblog tr.dblog-error td,
+table#admin-dblog tr.dblog-warning td {
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+table#admin-dblog tr.dblog-notice {
+  background-color: #D8FFA3 !important;
+  color: #2E5B02 !important;
+}
+
+table#admin-dblog tr.dblog-error {
+  background: #FFC4C1 !important;
+  color: #A40000 !important;
+}
+
+table#admin-dblog tr.dblog-warning {
+  background-color: #FFED7B !important;
+  color: #B14300 !important;
+}
+
+table#admin-dblog tr.dblog-notice .active {
+  background-color: #CEFF8A;
+}
+
+table#admin-dblog tr.dblog-error .active {
+  background-color: #FFB4B0;
+}
+
+table#admin-dblog tr.dblog-warning .active {
+  background-color: #FFEA61;
+}
+
+table#admin-dblog td img {
+  height: 0;
+}
+
+table#admin-dblog tr.dblog-notice td:first-child {
+  background-image: url(../images/icon-ok.png);
+}
+
+table#admin-dblog tr.dblog-error td:first-child {
+  background-image: url(../images/icon-error.png);
+}
+
+table#admin-dblog tr.dblog-warning td:first-child {
+  background-image: url(../images/icon-warning.png);
+}
+
+div.status li,
+table.system-status-report tr.ok th {
+  background-image: url(../images/icon-ok.png);
+}
+
+div.error li,
+table.system-status-report tr.error th {
+  background-image: url(../images/icon-error.png);
+}
+
+div.warning li,
+table.system-status-report tr.warning th {
+  background-image: url(../images/icon-warning.png);
+}
+
+/**
+ * Update status
+ */
+table.update .version-status {
+  background-position: right center;
+  background-repeat: no-repeat;
+  padding: 0 15px 0 0;
+}
+
+table.update .version-status img {
+  display: none;
+}
+
+table.update tr.ok {
+  background-color: #D8FFA3;
+}
+
+table.update tr.ok .version-status {
+  background-image: url(../images/icon-ok.png);
+  color: #2E5B02;
+}
+
+table.update tr.error {
+  background-color: #FFC4C1;
+}
+
+table.update tr.error .version-recommended {
+  background: transparent;
+}
+
+table.update tr.error .version-status {
+  background-image: url(../images/icon-error.png);
+  color: #A40000;
+}

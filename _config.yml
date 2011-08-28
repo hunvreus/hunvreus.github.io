@@ -1,8 +1,5 @@
 ---
-exclude: ['Rakefile', 'README.markdown', '_design']
-markdown: redcarpet
-redcarpet:
-    extensions: ['smart', 'no_intraemphasis']
+exclude: ['README.markdown']
 permalink: pretty
 pygments: true
 safe: false

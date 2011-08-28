@@ -1,0 +1,13 @@
+/**
+ * Form descriptions popups
+ */
+form .form-item .description {
+  background: #FFE8B1;
+  border: 1px solid #FFD571;
+  border-width: 1px 2px 2px 1px;
+  color: #A16400;
+  font-size: 11px;
+  padding: 7px;
+  position: absolute;
+  width: 250px;
+}

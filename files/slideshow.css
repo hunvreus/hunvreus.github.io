@@ -1,0 +1,60 @@
+/* Add this file to your style.css file in your theme or include it in your page with drupal_add_css() */
+
+#block-views-slideshow_featured-block_1 {
+  position: relative;
+}
+
+#block-views-slideshow_featured-block_1 .view-content {
+  display: block;
+  position: relative;
+  height: 150px;
+}
+
+#block-views-slideshow_featured-block_1 .views-row-even,
+#block-views-slideshow_featured-block_1 .views-row-odd {
+  background: white;
+  display: block;
+  font-family: Georgia;
+  font-size: 14px;
+  position: absolute;
+  width: 500px;
+}
+
+#block-views-slideshow_featured-block_1 img {
+  border: 0;
+  float: left;
+  margin: 0;
+  padding: 0;
+}
+
+#block-views-slideshow_featured-block_1 .views-field-body,
+#block-views-slideshow_featured-block_1 .views-field-title {
+  margin-left: 210px;
+}
+
+#block-views-slideshow_featured-block_1 .views-field-title a {
+  font-size: 18px;
+  text-decoration: underline;
+}
+
+.slideshow-pager {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+
+.slideshow-pager a {
+  background: black;
+  color: white;
+  cursor: pointer;
+  filter: alpha(opacity = 60);
+  opacity: 0.6;
+  padding: 1px 4px;
+  margin-right: 5px;
+}
+
+.slideshow-pager a:hover,
+.slideshow-pager a.active {
+  opacity: 1.0;
+  filter: alpha(opacity = 100);
+}

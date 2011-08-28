@@ -1,0 +1,26 @@
+/**
+ * Form buttons
+ */
+span.button {
+  background: transparent url('bg-button-right.png') no-repeat right top;
+  padding: 4px 10px 5px 0;
+}
+span.button:active {
+  background-position: right -36px;
+}
+
+span.button span {
+  background: transparent url('bg-button-left.png') no-repeat left top;
+  padding: 4px 0 5px 10px;
+}
+span.button span:active {
+  background-position: left -36px;
+}
+
+span.button span input {
+  background: transparent;
+  border: 0;
+  color: #494949;
+  font-size: 12px;
+  padding: 0;
+}

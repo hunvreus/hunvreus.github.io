@@ -1,0 +1,4 @@
+<?php
+  // We strip HTML tags and trim
+  print node_teaser(strip_tags($output), NULL, 200) .' (...)';
+?>
