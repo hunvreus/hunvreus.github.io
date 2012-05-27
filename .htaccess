@@ -7,7 +7,7 @@ RewriteEngine On
 #   /foo/index.html -> /foo/
 RewriteCond %{REQUEST_FILENAME} -f
 RewriteCond %{REQUEST_URI} ^\/.*index\.html$
-RewriteRule ^(.*)index.html$ http://tatey.com/$1 [R=301,L]
+RewriteRule ^(.*)index.html$ http://teddy.fr/$1 [R=301,L]
 
 # Continue to support deprecated permalink structure.
 # 
@@ -28,7 +28,7 @@ SetOutputFilter DEFLATE
 AddOutputFilterByType DEFLATE text/html application/xml text/css text/javascript 
 
 # Pretty error page
-ErrorDocument 404 http://tatey.com/404-not-found/
+ErrorDocument 404 http://teddy.fr/404-not-found/
 
 # Mime types
 AddType application/x-woff woff
