@@ -8,7 +8,7 @@ title: Ronan Berder
   <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
   {{ site.posts.first.content }}
 </article>
-<hr>
+
 <h2>Archive</h2>
 <ol id="archive">
   {% for post in site.posts offset:1 %}
@@ -18,4 +18,3 @@ title: Ronan Berder
     </li>
   {% endfor %}
 </ol>
-{% include footer.html %}
