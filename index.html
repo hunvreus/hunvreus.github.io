@@ -12,7 +12,7 @@ title: Ronan Berder
 <div id="archive">
   <h2>Older posts</h2>
   <ul id="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts offset:1 %}
       <li>
         <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> ›
         <a href="{{ post.url }}">{{ post.title }}</a>
