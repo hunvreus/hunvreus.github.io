@@ -4,7 +4,7 @@ title: Ronan Berder
 ---
 
 <article>
-  <time datetime="{{ site.posts.first.date | xmlschema }}">{{ site.posts.first.date | date: "%d %b" }}</time>
+  <time datetime="{{ site.posts.first.date | xmlschema }}">{{ site.posts.first.date | date: "%B %d, %Y" }}</time>
   <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
   {{ site.posts.first.content }}
 </article>
@@ -14,7 +14,7 @@ title: Ronan Berder
   <ul id="posts">
     {% for post in site.posts %}
       <li>
-        <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time> ›
+        <time datetime="{{ post.date | xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> ›
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% endfor %}
