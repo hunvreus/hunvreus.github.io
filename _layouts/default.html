@@ -11,6 +11,7 @@
   <!-- CSS -->
   <link href="/css/reset.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/monokai.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Imprima' rel='stylesheet' type='text/css'>
   <link href="/css/style.css" rel="stylesheet" type="text/css">
 
   <!-- JS -->
@@ -28,29 +29,17 @@
   <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
 </head>
 <body>
-  <div id="container">
-    <div id="content">
-      {{ content }}
-    </div>
-    <div id="sidebar">
-      <nav>
-        <h1><a href="{{ base.url }}/"><img src="/images/logo.png" /></a></h1>
-        <p id='bio'>My name is Ronan Berder; I run <a href='http://wiredcraft.com'>Wiredcraft</a>, with offices in Shanghai and Washington DC.</p>
-        <ul id='contact'>
-          <li class="linkedin"><a href="http://linkedin.com/in/ronan.berder">My LinkedIn profile</a></li>
-          <li class='twitter'><a href="http://twitter.com/hunvreus">Follow me on Twitter</a></li>
-          <li class='rss'><a href="/atom.xml">Subscribe to my RSS feed</a></li>
-        </ul>
-	    <form action="http://www.google.com/cse" method="get">
-	      <fieldset>
-	        <input type="hidden" name="cx" value="011449214013281158279:ie-gceh3d90" />
-	        <input type="hidden" name="ie" value="UTF-8" />
-	        <input type="search" name="q" size="31" />
-	        <input type="submit" name="sa" value="Search" />
-	      </fieldset>
-	    </form>
-      </nav>
-    </div>
+  <nav id="header">
+  	<h1><a href="{{ base.url }}/">Ronan Berder's blog'</a></h1>	
+    <p id="about">I am Ronan Berder, a Shanghai-based entrepreneur with a knack for technology and aesthetics. I run <a href="http://wiredcraft.com">Wiredcraft</a> and then some more.</p>
+    <ul id="links">
+      <li class="linkedin"><a href="hhttp://cn.linkedin.com/in/ronanberder">Ronan Berder's LinkedIn profile</a></li>
+      <li class='twitter'><a href="http://twitter.com/hunvreus">Ronan Berder's Twitter account</a></li>
+      <li class='rss'><a href="/atom.xml">Ronan Berder's blog RSS feed</a></li>
+    </ul>
+  </nav>
+  <div id="content">
+    {{ content }}
   </div>
 </body>
 </html>

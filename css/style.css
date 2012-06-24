@@ -1,5 +1,5 @@
 body {
-  padding: 40px 0;
+  background: #fff;
   text-align: center;
 }
 
@@ -7,7 +7,7 @@ body,
 input,
 textarea {
   color: #444;
-  font: 16px/24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/160% "Imprima", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -24,6 +24,12 @@ code {
   margin-bottom: 20px;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: normal;
+}
+
 h2 {
   font-size: 26px;
 }
@@ -33,43 +39,115 @@ h3 {
 }
 
 pre code {
+  border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  border-radius: 5px;
   display: block;
-  font: 14px/22px Monaco, monospace, sans-serif;
+  font: 14px/160% "Monaco", monospace, sans-serif;
   overflow: auto;
-  padding: 10px;
+  margin: 20px 0;
+  padding: 20px;
 }
 
-#container {
-  margin: 0 auto;
-  max-width: 900px;
-  position: relative;
+/* Header */
+#header {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 20px 40px;
+  padding: 20px;
+  position: fixed;
+  right: 0;
+  width: 200px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 a {
+  background: url(/images/logo.png) center center no-repeat;
+  display: inline-block;
+  height: 120px;
+  text-indent: -999em;
+  width: 120px;
+}
+h1 a:hover {
+  background-position: center top;
+}
+
+#about {
+  font-size: 14px;
+  line-height: 160%;
+  margin: 20px 0;
   text-align: left;
 }
 
+#links {
+  margin: 0;
+}
+
+#links li {
+  display: inline;
+  margin: 0 5px;
+}
+
+#links a {
+  background: url(/images/icon-rss.png) center center no-repeat;
+  display: inline-block;
+  height: 42px;
+  text-indent: -999em;
+  width: 42px;
+}
+
+#links .linkedin a {
+  background-image: url(/images/icon-linkedin.png);
+}
+
+#links .twitter a {
+  background-image: url(/images/icon-twitter.png);
+}
+
+/* Content */
 #content {
-  padding: 0 220px 0 0;
+  padding: 20px 320px 20px 40px;
 }
 
-#sidebar {
-  color: #666;
-  font-size: 14px;
-  line-height: 20px;
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 180px;
+#content {
+  text-align: justify;
 }
 
-#sidebar h1 img {
-  width: 100%;
+#content ul {
+  list-style-type: disc;
 }
 
-#left,
-#right {
+#content ul li {
+  margin-bottom: 20px;
+}
 
+#content #posts {
+  list-style: none;
+}
+
+#posts time,
+#posts h3 {
+  display: inline;
+}
+
+article time {
+  color: #999;
+}
+
+#pager {
+  border-top: 1px solid #ddd;
+  padding-top: 20px;
 }
 
 #left {
@@ -78,4 +156,11 @@ pre code {
 
 #right {
   float: right;
+}
+
+#archive {
+  background: #f0f0f0;
+  border-top: 1px solid #ccc;
+  margin: 0 -320px 0 -40px;
+  padding: 20px 320px 20px 40px;
 }
