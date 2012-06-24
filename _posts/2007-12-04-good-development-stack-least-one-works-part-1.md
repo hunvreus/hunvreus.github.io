@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A good development stack, at least one that works - Part 1"
+comments: true
 ---
 
 Back in the day, when I was a young and furless geek to be, I was relying on Notepad, my FTP client and EasyPHP. How foolish I was then... Well, if was still using just those tools, I would deserve spending the rest of my days patching Windows ME, but for the last few years I have been constantly improving my development process, at least I hope so. It is pretty common to find discussions about what kind of tools developers use, but I rarely, if ever, found anybody describing its whole development stack, from one end to another. Well, here I go...

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beautify your Drupal forms"
+comments: true
 ---
 
 ![A beautified form](http://teddy.fr/files/formstut/beautified_form.png)

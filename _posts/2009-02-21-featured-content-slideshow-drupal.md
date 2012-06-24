@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A featured content slideshow with Drupal"
+comments: true
 ---
 
 ![Thumbnail](http://teddy.fr/files/featured_slideshow.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Coder Sprint, or how to have a healthy DrupalCon"
+comments: true
 ---
 
 ![Running](http://teddy.fr/files/runner.jpg)

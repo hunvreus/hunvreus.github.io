@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google launches SMS search in China"
+comments: true
 ---
 
 ![Google mobile](http://teddy.fr/files/google_mobile.png)

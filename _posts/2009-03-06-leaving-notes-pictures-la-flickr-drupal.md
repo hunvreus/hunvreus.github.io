@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Leaving notes on pictures a la Flickr with Drupal"
+comments: true
 ---
 
 ![Flickr-like annotations](http://teddy.fr/files/image_annotate.png)

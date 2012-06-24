@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Theming the (almost) hidden..."
+comments: true
 ---
 
 ![Logs UI](http://teddy.fr/files/logs.png)

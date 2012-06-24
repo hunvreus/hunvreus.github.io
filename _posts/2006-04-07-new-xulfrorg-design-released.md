@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New XULFR.org design released !"
+comments: true
 ---
 
 Last few weeks I have been working on the new [XULFR.org](http://www.xulfr.org) design, which interface was a bit aged.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Easy and maintainable slideshows in Drupal"
+comments: true
 ---
 
 ![Slideshow](http://teddy.fr/files/slideshowsample.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Drupal and project management"
+comments: true
 ---
 
 I just made it back from DC and I must say it feels good to be back home in Shanghai. I won't go through the usual review of sessions and congratulations; enough people already gave that kind of feedback for everybody to know it was a blast. This was my first event of that kind and I had the opportunity to chat with a lot of smart people of the industry; a lot of good things came out of it, including the common need for resources related to project management. I hope to find more people interested in helping on that very issue and in the meantime I will do my best to help initiatives such as [The CivicActions Estimating Worksheet](http://civicactions.com/estimating-worksheet) (thanks a lot Gregory Heller to enlighten me on this) and my very own Project Management tool *aka* "**Ren**" (人) that I plan to release soon. I'll try to sum up what I think would be a good direction to head to.

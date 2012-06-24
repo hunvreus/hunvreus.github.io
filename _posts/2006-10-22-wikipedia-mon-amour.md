@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Wikipedia mon amour"
+comments: true
 ---
 
 ![Wikipedia](http://teddy.fr/files/wikipedia.png)

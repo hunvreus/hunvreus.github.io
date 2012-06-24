@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "小熊很忙, finally."
+comments: true
 ---
 I have now been working for an english-speaking magazine for about a month and a half, and I must say I am pretty satisfied with my position ; a lot of thrilling challenges with a quite wide community. I will tell you more about this when it got mature enough.
 

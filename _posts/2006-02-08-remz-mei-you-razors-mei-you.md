@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Remz ? Mei you. Razors ? Mei you."
+comments: true
 ---
 
 ![Old skates](http://teddy.fr/files/oldSkates.jpg)

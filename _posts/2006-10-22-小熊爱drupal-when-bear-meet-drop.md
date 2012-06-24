@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "小熊爱Drupal - when a bear meet a drop"
+comments: true
 ---
 
 ![Love Drupal](http://teddy.fr/files/loveDrupal.png)

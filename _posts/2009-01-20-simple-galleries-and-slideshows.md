@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Simple galleries and slideshows"
+comments: true
 ---
 
 There are now so many Drupal modules that it is virtually possible to anybody with some technical knowledge to cover most of the basic needs for a website. However there are still these gray areas the community has not yet completely covered. Try for example to create a picture gallery: you may think you have [alternatives](http://drupal.org/search/node/gallery+type%3Aproject_project); I've seen a lot of people using the [Gallery](http://drupal.org/project/gallery) or [Acidfree](http://drupal.org/project/acidfree) modules. Having used it myself I can tell you, however useful these modules may be, it has proven to be a painful experience, especially if you need to customize things, and the code is, well, not very Drupal-ish to say the least. There are a [couple](http://drupal.org/project/yagm) [others](http://drupal.org/project/prog_gallery) being developed to provide Drupal with a fully featured, flexible, Drupal-native gallery, I myself am actually working on one. But until these are ready for production use, you have to find a solution. Moreover, you may have simple needs: I'll expose a couple of very simple methods that I am using myself to build galleries and slideshows.

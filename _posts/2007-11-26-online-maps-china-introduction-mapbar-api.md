@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Online maps in China: an introduction to Mapbar API"
+comments: true
 ---
 
 ![Mapbar map](http://teddy.fr/files/mapbar.jpg)

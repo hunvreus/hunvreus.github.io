@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jumping the Great Firewall of China"
+comments: true
 ---
 
 ![Slam dunk](http://teddy.fr/files/yaoming.png)

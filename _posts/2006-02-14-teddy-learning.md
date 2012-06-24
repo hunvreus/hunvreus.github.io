@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teddy is learning..."
+comments: true
 ---
 
 A few new features here ; now Dark Teddy (this lovely psychopath look fluff on the right side) should be able to talk. You want to test it ? Ok :

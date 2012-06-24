@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The basics of Web design"
+comments: true
 ---
 
 I quite regularly got questions from people about the way to design a website: don't get me wrong, I am not a professional Web designer, I mean I am not dedicated to Web design. I do love it, and I do think I have some (modest) skills, but I am an engineer before anything else.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Surrounded !"
+comments: true
 ---
 
 I had some free time recently so that I could adjust one or two things here ; you can now find the weather of Shanghai and a gallery (which will be progressively filled in).

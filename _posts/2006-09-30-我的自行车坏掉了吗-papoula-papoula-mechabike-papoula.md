@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "我的自行车坏掉了吗 ? Papoula, papoula, mecha-bike papoula !"
+comments: true
 ---
 
 ![Mecha-bike](http://teddy.fr/files/bike.png)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to serve big files through PHP"
+comments: true
 ---
 
 ![Heavy](http://teddy.fr/files/heavy.png)

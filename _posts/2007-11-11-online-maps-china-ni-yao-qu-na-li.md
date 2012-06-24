@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Online maps in China: ni yao qu na li?"
+comments: true
 ---
 
 ![Compass](http://teddy.fr/files/you_are_here.jpg)

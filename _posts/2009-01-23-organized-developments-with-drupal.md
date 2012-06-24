@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Organized developments with Drupal"
+comments: true
 ---
 
 ![Whiteboard](http://teddy.fr/files/whiteboard.png)

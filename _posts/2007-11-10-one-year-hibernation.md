@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "One year of hibernation..."
+comments: true
 ---
 
 ![zZz](http://teddy.fr/files/zzz.gif)

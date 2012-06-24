@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Let's shake our nerdy muscles!"
+comments: true
 ---
 
 ![Running](http://teddy.fr/files/paris_workout.jpg")
