@@ -3,7 +3,7 @@ layout: post
 title: "Online maps in China: ni yao qu na li?"
 ---
 
-![Compass](/files/you_are_here.jpg)
+![Compass](http://teddy.fr/files/you_are_here.jpg)
 
 Since I started working for my current company, I have been dreaming of being able to deploy a Google-like map that would allow me to present our listings of venues in a more comprehensive way. Well, as for many other things in China, things are not simple.
 

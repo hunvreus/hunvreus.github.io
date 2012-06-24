@@ -3,7 +3,7 @@ layout: post
 title: "Jumping the Great Firewall of China"
 ---
 
-![Slam dunk](/files/yaoming.png)
+![Slam dunk](http://teddy.fr/files/yaoming.png)
 
 I've recently spent a few weeks in France, and even if I usually end up realizing why I left Europe (I won't develop further more here), there is one thing I really enjoy while out of China; you can actually access what you want on the Internet, furthermore with a decent speed. I spend 99% of my time at work (and a huge portion of my free time as well) on the Web, developing, testing, uploading, and China sure is not the sweetest place for my kind. Well, enough whining, what are the actual solutions if you want to bypass Chinese censorship? Follow me...
 

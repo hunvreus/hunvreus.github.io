@@ -3,7 +3,7 @@ layout: post
 title: "Let's shake our nerdy muscles!"
 ---
 
-![Running](/files/paris_workout.jpg")
+![Running](http://teddy.fr/files/paris_workout.jpg")
 
 So it's been nearly a month and a half and I didn't find time to write anything, nor did I show any major activity on Drupal.org. I still managed to commit a [new module](http://drupal.org/project/time_track), but beyond this I've mainly dedicated my time to a couple things off-scene that I will hopefully share here very soon; this includes launching my own company, [Wiredcraft](http://wiredcraft.com), with a small (but growing!) team of Drupal experts here in Shanghai.
 

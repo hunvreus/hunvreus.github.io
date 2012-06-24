@@ -3,7 +3,7 @@ layout: post
 title: "小熊爱Drupal - when a bear meet a drop"
 ---
 
-![Love Drupal](/files/loveDrupal.png)
+![Love Drupal](http://teddy.fr/files/loveDrupal.png)
 
 I publicly admit my love for this little blue drop : [Drupal](http://www.drupal.org) ROCKS !
 

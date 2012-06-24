@@ -6,6 +6,6 @@ I have now been working for an english-speaking magazine for about a month and a
 
 I can already give a snapshot of what it looks like from my office :
 
-![A view from my office](/files/office.jpg)
+![A view from my office](http://teddy.fr/files/office.jpg)
 
 1 point on four (getting a good job), but I am working on the other three...

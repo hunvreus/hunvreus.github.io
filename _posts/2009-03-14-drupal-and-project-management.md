@@ -15,7 +15,7 @@ I attended an interesting BoF with Viktor Kane and a few others in DC and realiz
 
 The thing is that there is no common approach to the problem; from what I've seen, some users need something closer to Basecamp, some other needs something like the project module, combining version control and issues. What I think is important here is to start committing back what we have, and from there we'll find what are the basic technical bricks we share and we'll be able to put our efforts in common.
 
-![Ren's dashboard](/files/dashboard.png)
+![Ren's dashboard](http://teddy.fr/files/dashboard.png)
 
 I am no different from others, and have myself built a tool that allows me to manage my projects online. I call it "Ren" and it allows me to create a group (Organic Group) for each one of my projects. Each group then gather several types of entries accessible to the project members:
 
@@ -24,7 +24,7 @@ I am no different from others, and have myself built a tool that allows me to ma
 - **Wiki pages**; is mainly used to build the documentation that we deliver to the client, but may potentially be used for any type of content that is supposed to be kept for further review.
 - **Milestones**; simple entries gathering a date and some description blurb. Tasks may relate to a milestone.
 
-![Ren's messages](/files/messages.png)
+![Ren's messages](http://teddy.fr/files/messages.png)
 
 One thing to notice here is that the client is using the same platform as the development team; the only differences is that clients can only post messages and comment wiki pages.
 
@@ -39,6 +39,6 @@ I have been spending some time putting together an install profile for sharing t
 
 As I said before, [CivicActions](http://civicactions.com) is already sharing resources (I strongly advise you to check on the document linked above, this is a very valuable tool) and after talking with [Gregory Heller](http://civicactions.com/team/gregoryheller) I am more convinced than ever that building a complete suite of project management related documents, including scoping document, information architecture, wireframes and even contract templates, would make sense. I myself would naturally tend to consider that kind of asset as too private and valuable to be shared outside of the company. However, on a technical level, the Drupal community is already working that way; the bricks that the whole community of professionals use to build their products is for the most part contributed back. This is, in my own opinion, one of the very reasons why our community enjoys such a healthy competition. We often see Drupal shops or individuals from different companies associating to maintain a module. There is no reason that would be different for documents.
 
-![Estimate overview](/files/estimate.png)
+![Estimate overview](http://teddy.fr/files/estimate.png)
 
 My next step on this will be to finalize the latest version of my scoping and information architecture documents and find a place to share these on Drupal.org. I am unsure of the best way to do so; if some of you have advices, please let me know. I also encourage anybody to give a spin to CivicActions' spreadsheet and to give them feedback. You can also join the [Project Management](http://groups.drupal.org/projectManagement) group on groups.drupal.org if you wish to discuss such kind of initiative.

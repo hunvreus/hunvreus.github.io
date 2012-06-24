@@ -3,7 +3,7 @@ layout: post
 title: "Organized developments with Drupal"
 ---
 
-![Whiteboard](/files/whiteboard.png)
+![Whiteboard](http://teddy.fr/files/whiteboard.png)
 
 As any other geek, I have spent a fair amount of time since I started coding looking for an efficient process when developing websites. After working for about a year leading Raincity Studios' team in Shanghai, the thing that I most enjoy is the technical side of the development process. The following is a rough idea of how we organize our work for our clients; I have already seen people discussing their own SVN structure or workflow when dealing with Drupal projects, but never did I see a complete overview of their process.
 
@@ -28,7 +28,7 @@ Nothing new here for anybody with a minimum of experience in Web development, bu
 
 This is somehow the part I prefer. We sure use the same **tags**, **trunk** and **branches** directories as everybody else, however we organize the sub-folders in a specific way. If you go into our trunk on a freshly started project you should find the following folders:
 
-![Repository's structure](/files/repository.png)
+![Repository's structure](http://teddy.fr/files/repository.png)
 
 - **html/**: this folder will contain the core code of Drupal, and we will leave it untouched except for the **sites/** folder:
     - **sites/**: this is where we are going to link to the modules and themes we want to add to the basic Drupal distribution, as well as the configuration and files folder of our local install:
@@ -44,7 +44,7 @@ This is somehow the part I prefer. We sure use the same **tags**, **trunk** and 
 
 So now we have a neat repository, that allows us to keep things organized and maintainable, and the structure to potentially run everything from code revisions, to integration testing and beta release. Let's sum up the workflow:
 
-![Overview of the development process](/files/process.png)
+![Overview of the development process](http://teddy.fr/files/process.png)
 
 1. **Development & unit testing**: developers run local copies of the project on which they work. They do code changes locally and commit it to the SVN repository when unit tests are passed.
 1. **Push to the dev server**: once code has been committed, the next cron will push the changes to the dev server. The coders may need to replicate some of the database changes manually (like activating a new module), after what he can ensure his work is working well with the latest version of the project (integration testing).

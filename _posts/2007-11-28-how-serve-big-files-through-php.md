@@ -3,7 +3,7 @@ layout: post
 title: "How to serve big files through PHP"
 ---
 
-![Heavy](/files/heavy.png)
+![Heavy](http://teddy.fr/files/heavy.png)
 
 There are many reasons why you could be led to serve files though an application server: let's say for example you want to restrict the access of certain files to the registered users of your website (like the latest private pictures of Tabatha Big Bolts), every time somebody wants to display or download those files you must check that this somebody is logged in your site. The quick and simple way of doing that would be:
 

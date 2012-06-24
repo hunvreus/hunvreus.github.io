@@ -3,7 +3,7 @@ layout: post
 title: "One year of hibernation..."
 ---
 
-![zZz](/files/zzz.gif)
+![zZz](http://teddy.fr/files/zzz.gif)
 
 Oh yeah, one full year! One year without the slightest change on this website; no blog post, no comment (except for ads for blue pills and other libido enhancers), no nothing. And you know what? I don't feel ashamed at all.
 

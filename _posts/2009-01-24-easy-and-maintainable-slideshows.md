@@ -3,7 +3,7 @@ layout: post
 title: "Easy and maintainable slideshows in Drupal"
 ---
 
-![Slideshow](/files/slideshowsample.png)
+![Slideshow](http://teddy.fr/files/slideshowsample.png)
 
 I received that request for most of my projects in the past year: the client wants a slideshow promoting either some of the content or the main features of the website. I have seen this implemented in many ways; from static Flash animations, to very dynamic, but very heavy, custom modules. I usually like to strip down the concept of a feature to its simplest form, then implement it the easiest way (usually a contributed module). In the end I just hack my way through a couple theme overrides and I'm done.
 
@@ -13,11 +13,11 @@ So the concept is simple: I want to have a customizable collection of elements g
 
 ### Create the Slide content type and the Slideshow nodequeue
 
-First thing you want to do is to add a content type (**admin/content/types/add**): we'll use the name "Slide" and the type "slide". This content type should have an image field (you'll need the [ImageField](http://drupal.org/project/imagefield) module for [CCK](http://drupal.org/project/cck)). I named that field "field_slide_image". We will use the body as the tagline. If you use the Content Copy module (bundled with CCK), you can also directly use the following import files: download [the import file for Drupal 5](/files/slideshowtut/slide.cck.5.txt) or  [the import file for Drupal 6](/files/slideshowtut/slide.cck.6.txt).
+First thing you want to do is to add a content type (**admin/content/types/add**): we'll use the name "Slide" and the type "slide". This content type should have an image field (you'll need the [ImageField](http://drupal.org/project/imagefield) module for [CCK](http://drupal.org/project/cck)). I named that field "field_slide_image". We will use the body as the tagline. If you use the Content Copy module (bundled with CCK), you can also directly use the following import files: download [the import file for Drupal 5](http://teddy.fr/files/slideshowtut/slide.cck.5.txt) or  [the import file for Drupal 6](http://teddy.fr/files/slideshowtut/slide.cck.6.txt).
 
 Now, let's add a simple nodequeue (**admin/content/nodequeue/add/nodequeue**) named "Slideshow" that is limited to the *Slide* content type. We'll then make sure to create a few *Slide* nodes that we'll add to that nodequeue.
 
-![Queue](/files/slideshowtut/queue.png)
+![Queue](http://teddy.fr/files/slideshowtut/queue.png)
 
 That's it, we are now ready to deal with the appearance and behavior:
 
@@ -25,7 +25,7 @@ That's it, we are now ready to deal with the appearance and behavior:
 
 First thing to do is to use [ImageCache](http://drupal.org/project/imagecache): we are going to make sure our pictures have the right size in the slideshow, whatever image has been uploaded. For this we create a new ImageCache preset: I personally will use a preset named "slideshow" that scale then crop to 350px (width) by 220px (height).
 
-![Preset](/files/slideshowtut/preset.png)
+![Preset](http://teddy.fr/files/slideshowtut/preset.png)
 
 Time to theme our Slide nodes. Just create a *node-slide.tpl.php* file in your theme folder with the content:
 
@@ -65,7 +65,7 @@ It will basically display the picture followed by the tagline (if tagline there 
 
 This should give you something like this:
 
-![Slide](/files/slideshowtut/slide.png)
+![Slide](http://teddy.fr/files/slideshowtut/slide.png)
 
 Now, we are going to add the following code where we want to display the slideshow:
 
@@ -94,7 +94,7 @@ The *nodequeue_view_nodes()* function is part of the nodequeue API: this will si
       slide.fadeIn('slow');
     }
 
-[Download the jQuery script](/files/slideshowtut/slideshow.js)
+[Download the jQuery script](http://teddy.fr/files/slideshowtut/slideshow.js)
 
 Which goes along with a couple additional CSS rules:
 
@@ -109,7 +109,7 @@ Which goes along with a couple additional CSS rules:
       position: absolute;
     }
 
-[Download the complete CSS file](/files/slideshowtut/slideshow.css)
+[Download the complete CSS file](http://teddy.fr/files/slideshowtut/slideshow.css)
 
 Just make sure to have this jQuery script in your theme folder. This code will simply keep on taking the first slide of the queue and move it to the end; since each slide is *position:absolute*, only the latest one is displayed (the others are piled underneath). I added a little *fadeIn()* effect just for the fun of it, but you could put pretty much whatever you want: *slideDown()*, *show()*...
 

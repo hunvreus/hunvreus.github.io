@@ -3,7 +3,7 @@ layout: post
 title: "Online maps in China: an introduction to Mapbar API"
 ---
 
-![Mapbar map](/files/mapbar.jpg)
+![Mapbar map](http://teddy.fr/files/mapbar.jpg)
 
 For the last month, I have been playing with several of the existing [online maps providers in China](/blog/online-maps-china-ni-yao-qu-na-li) and I hardly found any English documentation available, neither on the official websites nor from individuals. Given that Mapbar has English maps of several Chinese cities, I thought some of you may be interested in learning how to display their maps on your website. For the impatients, below is a link to the demo.
 
