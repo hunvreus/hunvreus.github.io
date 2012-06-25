@@ -52,17 +52,18 @@ pre code {
 /* Header */
 #header {
   background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border: 1px solid #ddd;
+  border-top: 0;
+  border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -webkit-border-radius: 0 0 5px 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  margin: 20px 40px;
+  margin: 0 0 0 40px;
   padding: 20px;
   position: fixed;
-  right: 0;
+  left: 0;
   width: 200px;
 }
 
@@ -117,11 +118,16 @@ h1 a:hover {
 
 /* Content */
 #content {
-  padding: 20px 320px 20px 40px;
+  padding: 20px 40px 0 320px;
 }
 
 #content {
   text-align: justify;
+}
+
+#content > article,
+#content > #pager {
+  max-width: 700px;
 }
 
 #content ul {
@@ -146,8 +152,11 @@ article time {
 }
 
 #pager {
-  border-top: 1px solid #ddd;
-  padding-top: 20px;
+  background: #eee;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 20px 0;
 }
 
 #left {
@@ -161,6 +170,6 @@ article time {
 #archive {
   background: #f0f0f0;
   border-top: 1px solid #ccc;
-  margin: 0 -320px 0 -40px;
-  padding: 20px 320px 20px 40px;
+  margin: 0 -40px 0 -320px;
+  padding: 20px 40px 20px 320px;
 }
