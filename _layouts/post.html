@@ -24,12 +24,12 @@ layout: default
 <ul id="pager">
   {% if page.next %}
     <li>
-      Newer post › <a href="{{ page.next.url }}">{{ page.next.title }}</a> (<time datetime="{{ page.next.date | xmlschema }}">{{ page.next.date | date: "%B %d, %Y" }}</time>)
+      Newer post › <a href="{{ page.next.url }}">{{ page.next.title }}</a>
     </li>
   {% endif %}
   {% if page.previous %}
     <li>
-      Older post › <a href="{{ page.previous.url }}">{{ page.previous.title }}</a> (<time datetime="{{ page.previous.date | xmlschema }}">{{ page.previous.date | date: "%B %d, %Y" }}</time>)
+      Older post › <a href="{{ page.previous.url }}">{{ page.previous.title }}</a>
     </li>
   {% endif %}
 </div>
