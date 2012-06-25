@@ -29,7 +29,7 @@ layout: default
   {% endif %}
   {% if page.next %}
     <li>
-      Newer post: <a href="{{ page.next.url }}">{{ page.previous.title }}</a> (<time datetime="{{ page.next.date | xmlschema }}">{{ page.next.date | date: "%B %d, %Y" }}</time>)
+      Newer post: <a href="{{ page.next.url }}">{{ page.next.title }}</a> (<time datetime="{{ page.next.date | xmlschema }}">{{ page.next.date | date: "%B %d, %Y" }}</time>)
     </li>
   {% endif %}
 </div>
