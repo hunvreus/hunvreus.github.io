@@ -21,11 +21,15 @@ layout: default
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
 
-<div id="pager">
+<ul id="pager">
   {% if page.previous %}
-    <a id="left" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Older post</a>
+    <li>
+      Older post: <a href="{{ page.previous.url }}">{{ page.previous.title }}</a> (<time datetime="{{ page.previous.date | xmlschema }}">{{ page.previous.date | date: "%B %d, %Y" }}</time>)
+    </li>
   {% endif %}
   {% if page.next %}
-    <a id="right" href="{{ page.next.url }}" title="{{ page.next.title }}">Newer post &rarr;</a>
+    <li>
+      Newer post: <a href="{{ page.next.url }}">{{ page.previous.title }}</a> (<time datetime="{{ page.next.date | xmlschema }}">{{ page.next.date | date: "%B %d, %Y" }}</time>)
+    </li>
   {% endif %}
 </div>

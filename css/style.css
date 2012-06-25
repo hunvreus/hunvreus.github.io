@@ -130,7 +130,7 @@ h1 a:hover {
   max-width: 700px;
 }
 
-#content ul {
+#content article ul {
   list-style-type: disc;
 }
 
@@ -151,25 +151,19 @@ article time {
   color: #999;
 }
 
-#pager {
-  background: #eee;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  padding: 20px 0;
-}
-
-#left {
-  float: left;
-}
-
-#right {
-  float: right;
+#archive,
+#comments {
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  border-width: 1px 0;
+  margin: 0 -40px 0 -320px;
+  padding: 20px 40px 20px 320px;
 }
 
 #archive {
-  background: #f0f0f0;
-  border-top: 1px solid #ccc;
-  margin: 0 -40px 0 -320px;
-  padding: 20px 40px 20px 320px;
+  border-bottom: 0;
+}
+
+#comments {
+  margin-bottom: 20px;
 }
