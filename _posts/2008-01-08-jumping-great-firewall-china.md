@@ -10,7 +10,7 @@ I've recently spent a few weeks in France, and even if I usually end up realizin
 
 ### Technique #1: Ask a friend
 
-The simplest way to access censored information (let's say Wikipedia for example) would be to use proxy services; you basically rely on a reachable third party to provide you the content you can not access. I won't say much about this method, I [already did in a previous post](/blog/internet-%E6%B2%A1%E6%9C%89#proxies) and you can easily find loads of information about it on the Internet anyway.
+The simplest way to access censored information (let's say Wikipedia for example) would be to use proxy services; you basically rely on a reachable third party to provide you the content you can not access. I won't say much about this method, I [already did in a previous post](/2006/09/30/internet-没有#proxies) and you can easily find loads of information about it on the Internet anyway.
 
 I often use this technique as it is as simple as going to a website like [anonymouse.org](http://anonymouse.org) and then specify which URL you want to access. No need for installing any piece of software, no fee, just a couple ads popups. The problem is that, since your URL and the content you access are both sent unencrypted on the Internet, you may sometimes be censored anyway. Moreover, some content like videos, pictures or Javascript based Web apps (undesrtand Web 2.0-ish) won't work.
 

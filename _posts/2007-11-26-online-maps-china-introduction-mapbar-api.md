@@ -6,7 +6,7 @@ comments: true
 
 ![Mapbar map](http://teddy.fr/files/mapbar.jpg)
 
-For the last month, I have been playing with several of the existing [online maps providers in China](/blog/online-maps-china-ni-yao-qu-na-li) and I hardly found any English documentation available, neither on the official websites nor from individuals. Given that Mapbar has English maps of several Chinese cities, I thought some of you may be interested in learning how to display their maps on your website. For the impatients, below is a link to the demo.
+For the last month, I have been playing with several of the existing [online maps providers in China](/2007/11/11/online-maps-china-ni-yao-qu-na-li/) and I hardly found any English documentation available, neither on the official websites nor from individuals. Given that Mapbar has English maps of several Chinese cities, I thought some of you may be interested in learning how to display their maps on your website. For the impatients, below is a link to the demo.
 
 [View the Mapbar API example](/sandbox/mapbar/mapbar-simple.html)
 
@@ -85,6 +85,6 @@ This last point is a bit problematic: Mapbar coordinates system is completely ob
       }
     </script>
 
-Meanwhile there are ways to hack Mapbar search system to provide search functionalities to your users, but [as I said before](/blog/online-maps-china-ni-yao-qu-na-li), I found Mapbar listings to be inconsistent to say the least. Though if some of you show some interest, I may publish another post to explain how to do it.
+Meanwhile there are ways to hack Mapbar search system to provide search functionalities to your users, but [as I said before](/2007/11/11/online-maps-china-ni-yao-qu-na-li/), I found Mapbar listings to be inconsistent to say the least. Though if some of you show some interest, I may publish another post to explain how to do it.
 
 If you dig a little in the API file ([http://api.mapbar.com/api/mapbarapi.js](http://api.mapbar.com/api/mapbarapi.js)), you'll see that you have many methods that allow you to do pretty much all what you can with Google Maps: adding info bubbles, stickers, set the look of the navigation slider, create animations, draw polygons... Again, if some of you are interested, just leave a comment, I'll write another post. For the moment I'd just like to enjoy my Tsingtao while it's cold.

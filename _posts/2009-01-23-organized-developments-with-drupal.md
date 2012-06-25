@@ -8,7 +8,7 @@ comments: true
 
 As any other geek, I have spent a fair amount of time since I started coding looking for an efficient process when developing websites. After working for about a year leading Raincity Studios' team in Shanghai, the thing that I most enjoy is the technical side of the development process. The following is a rough idea of how we organize our work for our clients; I have already seen people discussing their own SVN structure or workflow when dealing with Drupal projects, but never did I see a complete overview of their process.
 
-### Tools and structure</h3>
+### Tools and structure
 
 #### Client
 
