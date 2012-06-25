@@ -126,7 +126,8 @@ h1 a:hover {
 }
 
 #content > article,
-#content > #pager {
+#content > #pager,
+#comments #disqus_thread {
   max-width: 700px;
 }
 
