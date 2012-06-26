@@ -170,7 +170,26 @@ article time {
 
 @media only screen and (max-width: 800px) {
   body {
+    font: 15px/150% "Imprima", Helvetica, Arial, sans-serif;
     padding-bottom: 53px;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-weight: normal;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+  
+  pre code {
+    font: 12px/150% "Monaco", monospace, sans-serif;
   }
   
   #header {
