@@ -1,3 +1,4 @@
+/* General */
 body {
   background: #fff;
   text-align: center;
@@ -80,9 +81,6 @@ h1 a {
   text-indent: -999em;
   width: 120px;
 }
-h1 a:hover {
-  background-position: center top;
-}
 
 #about {
   font-size: 14px;
@@ -139,10 +137,6 @@ h1 a:hover {
   margin-bottom: 20px;
 }
 
-#content #posts {
-  list-style: none;
-}
-
 #posts time,
 #posts h3 {
   display: inline;
@@ -168,4 +162,75 @@ article time {
 #comments {
   margin-bottom: 20px;
   padding-bottom: 0;
+}
+
+#pager {
+  margin: 0;
+}
+
+@media only screen and (max-width: 800px) {
+  body {
+    padding-bottom: 53px;
+  }
+  
+  #header {
+    bottom: 0;
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+  }
+  
+  h1 a {
+    background-image: url(../images/logo-mobile-retina.png);
+    -webkit-background-size: 46px 42px;
+    background-size: 46px 42px;
+    height: 42px;
+    width: 46px;
+  }
+  
+  h1 {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #about {
+    display: none;
+  }
+  
+  #links {
+    display: inline-block;
+  }
+  
+  #links a {
+    background-image: url(../images/icon-rss-retina.png);
+    -webkit-background-size: 42px 42px;
+    background-size: 42px 42px;
+  }
+
+  #links .twitter a {
+    background-image: url(../images/icon-twitter-retina.png);
+  }
+  
+  #links .linkedin a {
+    background-image: url(../images/icon-linkedin-retina.png);
+  }
+  
+  #content {
+    margin: 0;
+    padding: 10px;
+  }
+  
+  #archive,
+  #comments {
+    margin: 0 -10px 20px;
+    padding: 10px;
+  }
+  
+  #archive {
+    margin-bottom: 0;
+  }
+  
+  #archive a {
+    display: block;
+  }
 }
