@@ -199,6 +199,7 @@ article time {
     margin: 0;
     padding: 10px 0;
     width: 100%;
+    z-index: 999;
   }
   
   h1 a {
