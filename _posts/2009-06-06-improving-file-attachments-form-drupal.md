@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improving the file attachments form in Drupals"
+title: "Improving the file attachments form in Drupal"
 comments: true
 published: false
 ---
