@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Improving the file attachments form in Drupal"
-comments: true
+title: "Jellymon meets Brut Cake"
 published: true
+media: [
+  [image1.png, "caption"],
+  [image2.png, "caption"],
+  [image3.png, "caption"]
+]
 ---
 
 As I already explained in a [previous post](/2009/04/16/theming-almost-hidden/), I am very fond of spending time improving things that don't usually get a lot attention from Drupal developers and themers. Even if many of the interfaces shipped by default in Drupal provide a very systematic and procedural environment for administrating the content, you sometimes need to add a bit of gloss to make things prettier and easier to use for your clients. When I start a project, I invariably add a bunch of theme overrides, CSS files and small scripts that help me reach that goal. This time I am going to expose the technique I use to beautify the upload form for file attachments. Here is what it looks like when I am done:
@@ -149,3 +153,4 @@ By hacking the core upload module of course! More seriously, this is mainly done
 That's quite a lot of code: you can find it in the *[template.php.txt](http://teddy.fr/files/template.php.txt)* file attached to this post.
 
 Enjoy!
+
