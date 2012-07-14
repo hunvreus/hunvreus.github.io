@@ -16,7 +16,7 @@ Now, I am not pretending to be some kind of Tim Ferriss guru, I won't tell you h
 1. **Kicking my own butt on a daily basis.** That may be coming from my natural self being socially unequipped, lazy and overall unpopular, but I've started at some point just sucking it up and giving myself mental slaps. That may sound borderline schizophrenic, but I have some arguments with myself on a regular basis;
 
 > Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
-
+> 
 > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to relax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
 
 Most of the time it feels like fighting two kids at the same time; one who can't stop blabbering while the other keeps dozing.
