@@ -4,6 +4,8 @@ title: Don't Over-Think It, Suck It Up and Get Going
 published: false
 comments: true
 ---
+<img src="http://teddy.fr/files/brain.png" alt="Thinking too much" align="right"/>
+
 I live mainly by two principles; **kick you own butt** and **don't think too hard**. This is not an attempt to lecture people on "the good way to get things done", just some ramblings about what works for me.
 
 I don't consider myself especially gifted or smarter than the average; truth be told I was a pretty chubby kid, introverted and shy as hell. I guess I still am in some ways if you scratch deep enough, but I've tried to make up for it with what people perceive as stamina; churning through things and getting there ultimately, or not really, but at least giving it a honest swing.
@@ -17,4 +19,4 @@ Now, I am not pretending to be some kind of Tim Ferriss guru, I won't tell you h
 
     > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to relax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
 
-Most of the time it feels like fighting two kids at the same time; one needs to stop blabbering and the other one needs to stop dozing.
+Most of the time it feels like fighting two kids at the same time; one who can't stop blabbering while the other keeps dozing.
