@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Don't Over-Think It, Suck It Up and Get Going
+layout: post
+title: "Don't Over-Think It, Suck It Up and Get Going"
 published: true
 comments: true
 ---
