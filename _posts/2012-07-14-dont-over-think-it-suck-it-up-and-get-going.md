@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Don't Over-Think It, Suck It Up and Get Going
-published: false
+published: true
 comments: true
 ---
 <img src="http://teddy.fr/files/brain.png" alt="Thinking too much" align="right"/>
