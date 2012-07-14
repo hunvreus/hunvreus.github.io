@@ -10,11 +10,9 @@ I don't consider myself especially gifted or smarter than the average; truth be 
 
 Now, I am not pretending to be some kind of Tim Ferriss guru, I won't tell you how you can get your stuff done and then some in a matter of hours. I don't get to the bottom of my todo list, ever. I honestly perceive myself as highly inefficient in a good deal of what I undertake. That being said, I can see that I do get stuff done on a fairly regular basis, through burn out and busy weeks, and my main approach for this is to;
 
-1. **Not using my brain if I don't need to.** I don't try to solve things that have been solved already by somebody else (thanks Google), neither do I try and solve things that are too uncertain yet. If it's not concrete enough to be summarized to two options, chances are I'll deal with it later on. And especially, I don't try to wrap my head around the whole problem; I just slice things up in smaller, more actionable chunks. Then I slice it up some more. It's a redoubtable tool, slicing.
+1. **Not using my brain if I don't need to.** I don't try to solve things that have been solved already by somebody else (thanks Google), neither do I try and solve things that are too uncertain yet. If it's not concrete enough to be summarized to two options, I'm probably better off dealing with it later on. Finally, I don't try to wrap my head around the whole problem; I just slice things up in smaller, more actionable chunks. Then I slice it up some more. It's a redoubtable tool, slicing.
 1. **Kicking my own butt on a daily basis.** That may be coming from my natural self being socially unequipped, lazy and overall unpopular, but I've started at some point just sucking it up and giving myself mental slaps. That may sound borderline schizophrenic, but I have some arguments with myself on a regular basis;
 
-    Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
-    
-    Too tired to wrap up that strategy brief; you feel like grabbing a drink with friends? Sure, genius idea! You'll put in double shifts tomorrow, it's always worked so well for you in the past.
-    
-Now 
+    > Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
+
+    > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to chillax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
