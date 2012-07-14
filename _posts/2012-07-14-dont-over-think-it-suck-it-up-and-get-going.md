@@ -15,4 +15,6 @@ Now, I am not pretending to be some kind of Tim Ferriss guru, I won't tell you h
 
     > Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
 
-    > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to chillax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
+    > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to relax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
+
+Most of the time it feels like fighting two kids at the same time; one needs to stop blabbering and the other one needs to stop dozing.
