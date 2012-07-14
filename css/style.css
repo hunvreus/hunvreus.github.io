@@ -133,8 +133,28 @@ h1 a {
   list-style-type: disc;
 }
 
+#content article ol {
+  list-style-type: decimal;
+}
+
+#content ol li,
 #content ul li {
   margin-bottom: 20px;
+}
+
+#content blockquote {
+  background: #f0f0f0;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  color: #444;
+  font-style: italic;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+#content blockquote p:last-child {
+  margin-bottom: 0;
 }
 
 #posts time,

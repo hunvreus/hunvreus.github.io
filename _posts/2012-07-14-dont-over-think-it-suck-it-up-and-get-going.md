@@ -15,8 +15,8 @@ Now, I am not pretending to be some kind of Tim Ferriss guru, I won't tell you h
 1. **Not using my brain if I don't need to.** I don't try to solve things that have been solved already by somebody else (thanks Google), neither do I try and solve things that are too uncertain yet. If it's not concrete enough to be summarized to two options, I'm probably better off dealing with it later on. Finally, I don't try to wrap my head around the whole problem; I just slice things up in smaller, more actionable chunks. Then I slice it up some more. It's a redoubtable tool, slicing.
 1. **Kicking my own butt on a daily basis.** That may be coming from my natural self being socially unequipped, lazy and overall unpopular, but I've started at some point just sucking it up and giving myself mental slaps. That may sound borderline schizophrenic, but I have some arguments with myself on a regular basis;
 
-    > Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
 
-    > Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to relax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
+> Can't finish your run? Cool, but don't come whining about how out of shape you are buddy.
+> Too tired to wrap up that strategy brief and feeling like grabbing a drink with friends to relax? Sure, genius idea! You'll put in double shifts tomorrow, it worked so well for you in the past.
 
 Most of the time it feels like fighting two kids at the same time; one who can't stop blabbering while the other keeps dozing.
