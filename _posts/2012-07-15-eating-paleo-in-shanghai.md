@@ -8,7 +8,7 @@ I switched from being a vegetarian to the [Paleo diet](http://en.wikipedia.org/w
 
 If you're not familiar with it, there are plenty of sites out there doing a great job at explaining the idea. I myself read [Nom Nom Paleo](http://nomnompaleo.com/) and [Mark Sisson's blog](http://nomnompaleo.com/) on a regular basis. Some of the key concepts behind it; eat natural (no processed foods), avoid carbs and sugar and go crazy on greens and meat. No calorie counting, no strict regimen to stick to, just sound advices on eating simple, healthy (and yummy) food.
 
-Since [my company](http://wiredcraft.com) requires I split my time between our Shanghai and Washington DC offices, I can confirm there is a striking contrast in the scope of options offered to paleo addicts between the two countries. When in the US, Whole Foods or any decent grocery does the trick. Shanghai can be a tad more challenging;
+Since [my company](http://wiredcraft.com) requires I split my time between our Shanghai and Washington DC offices, I can confirm there is a striking contrast in the range of options offered to paleo addicts between the two countries. When in the US, Whole Foods or any decent grocery does the trick. Shanghai can be a tad more challenging;
 
 1. Dining out is a very affordable option (luckily I love cooking and so every day),
 1. Supermarkets like City Shop propose a lot of imported food and a decent selection of vegetables, but can be outrageously expensive (100 RMB for a jar of olives, really?),
