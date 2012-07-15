@@ -14,11 +14,11 @@ Since [my company](http://wiredcraft.com) requires I split my time between our S
 1. Supermarkets like City Shop propose a lot of imported food and a decent selection of vegetables, but can be outrageously expensive (100 RMB for a jar of olives, really?),
 1. The selection from local places can be pretty disorienting; lots of products you are not familiar with, which makes it hard to know how to prepare it, moreover freshness varies greatly (which is fine if you fry everything like most Chinese do, but I'm a sucker for salads),
 
-Now you can always pull out the joker card; the ["avocado lady"](http://shanghaiist.com/2011/04/01/the_avocado_lady_expanding_options.php#photo-1). Sure, but it definitely isn't a day to day option for me.
+Now you can always pull out the joker card; the ["avocado lady"](http://shanghaiist.com/2011/04/01/the_avocado_lady_expanding_options.php#photo-1). Sure, but it definitely isn't a day-to-day option for me.
 
 This leads me to the little circuit that I've starting following about 5 years ago; get my running gears on, grab my backpack and run down the Tianzifang area. I usually get a good mix of greens, meat, nuts and dried fruits;
 
-1. **涂跃华's shop on Ruijin lu (#223)**; it's been my go to shop for buying nuts and dried fruits for a solid 5 years now. I especially recommend the roasted almonds, chestnuts, dried bananas and apricots. I usually fill up on these babies before hopping on a plane; try mixing apricots and almonds, it's addictive. If you're the paleo diet, go easy on these babies.
+1. **涂跃华's shop on Ruijin lu (#223)**; it's been my go-to shop for nuts and dried fruits for a solid 5 years now. I especially recommend the roasted almonds, chestnuts, dried bananas and apricots. I usually fill up on these babies before hopping on a plane; try mixing apricots and almonds, it's addictive. If you're the paleo diet, go easy on these though since they contain sugar and carbs.
 
     ![Nuts and fruits](http://distilleryimage3.s3.amazonaws.com/ba435db0cd7a11e1b93522000a1e880c_7.jpg)
     
