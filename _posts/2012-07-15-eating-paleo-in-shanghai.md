@@ -32,6 +32,4 @@ This leads me to the little circuit that I've starting following about 5 years a
 
 ![Dried meat from Yurun](http://distilleryimage2.s3.amazonaws.com/d25d4b88ce4a11e1be9812313804ece1_7.jpg)
 
-I have quite a few other locations I go to, but I'll save it for a later.
-
-<iframe width='100%' height='300' frameBorder='0' src='http://a.tiles.mapbox.com/v3/wiredcraft.map-bnlz25lj.html#16/31.210/121.464'></iframe>
+I have quite a few other locations I go to, but I'll save it for a later. In the meantime, [I've put these places on a map](http://tiles.mapbox.com/wiredcraft/map/map-bnlz25lj) to help you find the good stuff; enjoy.
