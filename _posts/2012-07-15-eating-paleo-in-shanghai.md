@@ -10,7 +10,7 @@ If you're not familiar with it, there are plenty of sites out there doing a grea
 
 Since [my company](http://wiredcraft.com) requires I split my time between our Shanghai and Washington DC offices, I can confirm there is a striking contrast in the range of options offered to paleo addicts between the two countries. When in the US, Whole Foods or any decent grocery does the trick. Shanghai can be a tad more challenging;
 
-1. Dining out is a very affordable option (luckily I love cooking and so every day),
+1. Dining out is a very affordable option (luckily I love cooking and do so every day),
 1. Supermarkets like City Shop propose a lot of imported food and a decent selection of vegetables, but can be outrageously expensive (100 RMB for a jar of olives, really?),
 1. The selection from local places can be pretty disorienting; lots of products you are not familiar with, which makes it hard to know how to prepare it, moreover freshness varies greatly (which is fine if you fry everything like most Chinese do, but I'm a sucker for salads),
 
