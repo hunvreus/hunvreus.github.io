@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Eating Paleo in Shanghai"
 comments: true
 ---
