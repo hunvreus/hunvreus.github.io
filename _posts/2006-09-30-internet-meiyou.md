@@ -2,6 +2,7 @@
 layout: post
 title: "Internet ? 没有."
 comments: true
+published: true
 ---
 
 [Chinese Internet](http://teddy.fr/files/internetCN.png)
