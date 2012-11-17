@@ -9,7 +9,7 @@ It's Friday evening and I am sitting in my apartment, trying to fulfill my penul
 
 <p align="center"><img src="http://teddy.fr/files/bottles.png" alt="Bottles" /></p>
 
-I never considered myself a heavy drinker, and so do most of other people around me. What is the big deal if that slight hangover can be shaved off in a few hours? A solid breakfast, plenty of water and a run will take care of it. Well, actually maybe not: I have the feeling that little routine of occasional excess may have seriously slowed me down...
+I never considered myself a heavy drinker, and so do most of people around me. What is the big deal if that slight hangover can be shaved off in a few hours? A solid breakfast, plenty of water and a run will take care of it. Well, actually maybe not: I have the feeling that little routine of occasional excess may have seriously slowed me down...
 
 It is a strange thing to observe our social gatherings through sober eyes. A frightening view sometimes. Alcohol is practically shoved down your throat. Refusing a drink is the cause of strange looks at the very least, and quite often seems to be an invitation to coercion: after all, "you work hard, you play hard", no? Well, not exactly.
 
