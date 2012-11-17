@@ -1,13 +1,11 @@
 ---
 title: Alcohol And Personal Growth	
-layout: default
+layout: post
 published: true
 comments: true
 ---
 
-<p align="center"><img src="http://teddy.fr/files/bottles.png" alt="Bottles" /></p>
-
-It's Friday evening and I am sitting in my apartment, trying to fulfill my penultimate resolution for the year. A blog post a week, I don't care where, on the company website or on your own blog, but I will expect that blog post by end of the week. I do that; talking to myself, threatening, demanding, kicking my own butt... The poor slob in me had it hard this year: I made him quit alcohol.
+<img src="http://teddy.fr/files/bottles.png" alt="Bottles" align="right" />It's Friday evening and I am sitting in my apartment, trying to fulfill my penultimate resolution for the year. A blog post a week, I don't care where, on the company website or on your own blog, but I will expect that blog post by end of the week. I do that; talking to myself, threatening, demanding, kicking my own butt... The poor slob in me had it hard this year: I made him quit alcohol.
 
 I never considered myself a heavy drinker, and so do most of other people around me. What is the big deal if that slight hangover can be shaved off in a few hours? A solid breakfast, plenty of water and a run will take care of it. Well, actually maybe not: I have the feeling that little routine of occasional excess may have seriously slowed me down...
 
