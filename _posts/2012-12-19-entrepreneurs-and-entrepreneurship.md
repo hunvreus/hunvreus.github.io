@@ -20,7 +20,7 @@ I was taught at an early age that really, only two things mattered;
 
 Legacy of my father. And like good wine, it only gets better with age.
 
-I did not choose to build a business, I kind of stumbled into it, more a duty than an opportunity. I did not dream of <a href="http://www.youtube.com/watch?v=NisCkxU544c">being "The Boss"<sup>TM</sup></a>. Creating my company and leading it was an obstacle between me and something that in the end I would not enjoy in the way I originally intended. I renounced to being the geek so that my team could thrive at it, and I became what most small business owners are at first: [the janitor](http://www.zachbruhnke.com/youre-not-the-ceo-youre-the-fucking-janitor).
+I did not choose to build a business, I kind of stumbled into it, more a duty than an opportunity. I did not dream of [being "The Boss" (TM)](http://www.youtube.com/watch?v=NisCkxU544c). Creating my company and leading it was an obstacle between me and something that in the end I would not enjoy in the way I originally intended. I renounced to being the geek so that my team could thrive at it, and I became what most small business owners are at first: [the janitor](http://www.zachbruhnke.com/youre-not-the-ceo-youre-the-fucking-janitor).
 
 That's what I see in most business owners, aka "entrepreneurs", I have respect for. Smarts and selflessness. Conscious or unconscious. Financial gains are not out of the equation, but the main idea is to build a business you'd enjoy, as an employee or a customer. Leading it is almost an afterthought.
 
