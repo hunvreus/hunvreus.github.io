@@ -24,4 +24,4 @@ I did not choose to build a business, I kind of stumbled into it, more a duty th
 
 That's what I see in most business owners, aka "entrepreneurs", I have respect for. Smarts and selflessness. Conscious or unconscious. Financial gains are not out of the equation, but the main idea is to build a business you'd enjoy, as an employee or a customer. Leading it is almost an afterthought.
 
-I don't have any advice about what you should or should not do. Heck, if I had, I would try and charge you for it (I'm an "entrepreneur", remember?). **But I do often recognize entrepreneurship when I meet it, and it does not start with wanting to be "an entrepreneur".**
+I don't have any advice about what you should or should not do. Heck, if I had, I would try and charge you for it (I'm an "entrepreneur", remember?). But I do often recognize entrepreneurship when I meet it, and it does not start with wanting to be "an entrepreneur".
