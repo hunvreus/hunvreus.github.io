@@ -1,7 +1,7 @@
 ---
 title: "Entrepreneurs and Entrepeneurship"
 layout: post
-published: false
+published: true
 comments: true
 ---
 
