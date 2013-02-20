@@ -9,7 +9,7 @@ comments: true
 
 As far as I can remember, I've been a fairly resolute (some may say stubborn) person. I just can't seem to nuance my commitments: I either do something, or I don't. I often think of the song *Running At Full Speed* from Venus when I picture my "strategy" for investment, or lack thereof, in both personal and profesional aspects of my life.
 
-The last few years have been fantastic for me in terms of personal growth: I built [my first company](http://wiredcraft.com) and moved on to build my first products. I worked with a whole range of companies and organizations, helped governments and fortune 500. I also did a lot of introspection, kicked my butt into shape, quit drinking, went paleo and overall tried really hard to improve myself, especially in areas where I lacked confidence.
+The last few years have been fantastic for me in terms of personal growth: I built [my first company](http://wiredcraft.com) and moved on to build [my first products](http://devo.ps). I worked with a whole range of companies and organizations, helped governments and fortune 500. I also did a lot of introspection, kicked my butt into shape, quit drinking, went paleo and overall tried really hard to improve myself, especially in areas where I lacked confidence.
 
 There's one thing though that I've sticked to for a long time, with more passion in the past couple years: **I don't own shit**. I insist on the term "shit" as I think it provides a valuable distinction from just "stuff" or "things".
 
