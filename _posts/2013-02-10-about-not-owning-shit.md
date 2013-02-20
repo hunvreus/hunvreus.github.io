@@ -5,7 +5,7 @@ published: true
 comments: true
 ---
 
-![Nothing in action](http://distilleryimage9.s3.amazonaws.com/ab3ebf1e252f11e2a5bc22000a9e2899_7.jpg)
+![Nothing in action](http://farm9.staticflickr.com/8112/8492122654_999241159b_z.jpg)
 
 As far as I can remember, I've been a fairly resolute (some may say stubborn) person. I just can't seem to nuance my commitments: I either do something, or I don't. I often think of the song *Running At Full Speed* from Venus when I picture my "strategy" for investment, or lack thereof, in both personal and profesional aspects of my life.
 
