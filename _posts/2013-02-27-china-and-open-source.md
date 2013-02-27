@@ -25,7 +25,7 @@ Scale doesn't equate to culture. There are a number of things that have been pre
 
 The demand from companies is quickly shifting, you just have to take a look at companies like [Taobao][3], [Dianping][4] or [Douban][5] to know that (Baidu was left aside intentionally). It is hardly impacting things yet though. I actually believe that this tension is a good indicator of business opportunities.
 
-Now this is not to say that there are no local initiatives. Especially in first tier city (Shanghai, Beijing, Shenzhen...), you can find active local communities. They do however usually suffer from one of the following problems:
+Now this is not to say that there are no local initiatives. Especially in first tier cities (Shanghai, Beijing, Shenzhen...), you can find active local communities. They do however usually suffer from one of the following problems:
 
 - **Fragmented and territorial**. There are decently sized niche OSS communities that are pretty active. The Python community in Beijing and Shanghai, for example. However they are very silo-ed and territorial. This may work fine for the more crowded Western scene, but prevents the collaboration and knowledge transfer that would help other local communities get off the ground.
 
