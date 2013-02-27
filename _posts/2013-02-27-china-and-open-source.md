@@ -31,7 +31,7 @@ Now this is not to say that there are no local initiatives. Especially in first 
 
 - **Too heavily targeted at foreigners**, something that we are painfully familiar with in Shanghai. It often stems from the simple fact that these communities are initiated and led by foreigners. Anybody who've put a tech event here is aware of the difficulty of getting locals to get on stage and share their experiences. Again, individuality and public exposure are not necessarily encouraged.
 
-- **Marketing shows**, this is especially true for large local events. I've been more than once sitting in events in Shanghai and Beijing expecting some "geek porn" (understand "very technical talks"), only to be served pie charts and ads revenue projections by a suit.
+- **Marketing shows**, this is especially true for large local events. I've been more than once sitting in events in Shanghai and Beijing expecting some geek talks, only to be served pie charts and ads revenue projections by a suit.
 
 Things have been quickly improving in the last few years. [Taobao][6], highly regarded within local tech circles, is [embracing Open Source][7] and leading the way on [how to do it right][8]. I expect this to only accelerate and am prepared to be blown away in a few years from now when the Chinese hacker culture has solidified. You should too.
 
