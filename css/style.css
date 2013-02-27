@@ -139,6 +139,11 @@ h1 a {
   margin-bottom: 20px;
 }
 
+#content p b {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
 #content blockquote {
   background: #f0f0f0;
   border-radius: 5px;
