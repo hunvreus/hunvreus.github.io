@@ -33,7 +33,7 @@ Now this is not to say that there are no local initiatives. Especially in first 
 
 - **Marketing shows**, this is especially true for large local events. I've been more than once sitting in events in Shanghai and Beijing expecting some "geek porn" (understand "very technical talks"), only to be served pie charts and ads revenue projections by a suit.
 
-Things have been quickly improving in the last few years. [Taobao][6], highly regarded within local tech circles, is [embracing Open Source][7] and leading the way on [how to do it right][8]. I expect this to only accelerate in the next few years, and given the stunts China managed to pull in other areas, I am looking forward to be surprised by its nascent hacker culture.
+Things have been quickly improving in the last few years. [Taobao][6], highly regarded within local tech circles, is [embracing Open Source][7] and leading the way on [how to do it right][8]. I expect this to only accelerate and am prepared to be blown away in a few years from now when the Chinese hacker culture has solidified. You should too.
 
 Shameless plug: we are throwing the monthly [Hacker News meetup][9] and [Open Source meetup][10] here in Shanghai. If you're a geek, join and help.
 
