@@ -1,5 +1,5 @@
 ---
-title: "Entrepreneurs and Entrepeneurship"
+title: "Entrepreneurs and Entrepreneurship"
 layout: post
 published: true
 comments: true
