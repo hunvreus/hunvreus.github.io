@@ -27,5 +27,8 @@ Letting me see the whole of us, clenching in a shaking fear of the unknown.
 I left it there,
 With the others,
 And alone,
-I feel without fear.
+I face it.
+
+A smirk,
+I know.
 </pre>
