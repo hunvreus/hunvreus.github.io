@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-
+<pre>
 I remember how I forgot most of my past,
 But what has managed to transcend this convenient trick of my brain
 Is the sweet sourness of others.
@@ -28,3 +28,4 @@ I left it there,
 With the others,
 And alone,
 I feel without fear.
+</pre>
