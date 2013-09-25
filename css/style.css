@@ -139,8 +139,8 @@ h1 a {
   margin-bottom: 20px;
 }
 
-#content p b,
-#content p strong {
+#content b,
+#content strong {
   font-weight: normal;
   text-decoration: underline;
 }
