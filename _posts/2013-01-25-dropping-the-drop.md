@@ -50,9 +50,11 @@ I won't comment much on Drupal 8 since we've only very briefly played with it. W
 
 We wish farewell to  the Drupal community as they embark on the D8 journey; as in most OSS communities, there are plenty of great people there. We're just definitely not heading in the same direction. I would encourage most (Drupal) people to look around though: all people who've "exited" have found it extremely refreshing.
 
-We may be wrong and that doesn't matter after all. But if I were to consider things like the graph below I'd say that we may not be the only ones.
+We may be wrong and that doesn't matter after all. But if I were to consider things like the graphs below I'd say that we may not be the only ones.
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal,+/m/02vtpl&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=500&h=330"></script>
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
+
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal,+/m/02vtpl&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
 
 This is not a hate post, I just felt I owed it to people around me to explain our choice. This may be usefyl to others as they evaluate what's best for their project, especially given the strong attitude of "You can build anything with Drupal" that runs in the community.
 
