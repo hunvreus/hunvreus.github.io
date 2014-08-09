@@ -52,9 +52,9 @@ We wish farewell to  the Drupal community as they embark on the D8 journey; as i
 
 We may be wrong and that doesn't matter after all. But if I were to consider things like the graphs below I'd say that we may not be the only ones.
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=700&h=350"></script>
 
-<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal,+/m/02vtpl&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal,+/m/02vtpl&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=700&h=350"></script>
 
 [Stackoverflow trend for the Drupal tag](http://makingdataeasy.com/stackoverflow-trends?t=drupal)
 
