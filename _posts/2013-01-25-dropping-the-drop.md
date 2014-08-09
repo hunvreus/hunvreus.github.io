@@ -16,13 +16,13 @@ Some of these people asked why; I thought I'd share what I can remember of our t
 
 ### Drupal 7
 
-Our last major project with it was the launch of our first Drupal 7 site. A frustrated trend clearly emerged:
+Our last major project with it was the launch of our first Drupal 7 site. A frustrating trend clearly emerged:
 
 - **More and more abstraction layers**: I remember falling asleep at my desk while launching the site, reading through the cryptic errors the combination of Views, entity fields and the database abstraction layer was throwing at me. The core team had sided for more abstraction rather than investing in simplicity and developer/user experience.
 - **Drop in performance**: while Drupal 6 wasn't necessarily known to be snappy, it was manageable and scaled quite well with simple, repeatable strategies. Drupal 7 was a beast out-of-the-box and took quite some tweaking to run reasonably fast.
-- **A questionable UI trend**; the overall user experience was not improving to say the least. While previous versions were debatably austere by default, the introduction of complex overlays and awkward AJAX interactions with no consistent UX or UI direction was becoming hard to ignore.
+- **A questionable UI trend**; the overall user experience was not improving to say the least. While previous versions were debatably austere by default, the introduction in Drupal 7 of complex overlays and awkward AJAX interactions with no consistent UX or UI direction was becoming a major problem.
 
-Overall, the learning curve for both developers and end-users crossed a threshold that questioned our investment into Drupal.
+Overall, the learning curve for both developers and end-users crossed a threshold that questioned our investment in Drupal.
 
 ### A tougher market
 
