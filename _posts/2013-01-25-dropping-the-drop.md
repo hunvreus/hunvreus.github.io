@@ -56,8 +56,10 @@ We may be wrong and that doesn't matter after all. But if I were to consider thi
 
 <script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal,+/m/02vtpl&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
 
-This is not a hate post, I just felt I owed it to people around me to explain our choice. This may be usefyl to others as they evaluate what's best for their project, especially given the strong attitude of "You can build anything with Drupal" that runs in the community.
+<script type="text/javascript" src="//www.google.com/trends/embed.js?hl=en-US&q=Drupal&cmpt=q&content=1&cid=TIMESERIES_GRAPH_0&export=5&w=572&h=340"></script>
 
-I have additional thoughts on the why things are this way that I won't share publicly, I'm happy discussing this in private though.
+This is not a hate post, I just felt I owed it to people around me to explain our choice. This may be usefyl to others as they evaluate what's best for their project, especially given the strong attitude of "you can build anything with Drupal (tm)" that runs within the community.
+
+I have additional thoughts on why things are the way they are, but I won't share them publicly. I'm happy discussing this in private though.
 
 Thanks for all the fish.
