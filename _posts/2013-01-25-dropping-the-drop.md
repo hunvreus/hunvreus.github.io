@@ -30,7 +30,7 @@ The Drupal community had been pretty kind to us in the initial years of Wiredcra
 
 - **Acquia's success**, which I applaude, was effectively starting to asphixiate the top-end of the market.
 - **A growing cheap labor** in the form of offshore shops with low rates, which despite they lack of expertise were effectively dragging the perception of value down, making it harder to extract margins.
-- **A thin middle market**. Budget-wise, we often found clients on each end of the spectrum, which made it hard for us to generate steady sales cycles. Drupal has a certain overhead to "just get started", and this can make it hard to operate a shop with the low-end of th
+- **A thin middle market**. Budget-wise, we often found clients on either end of the spectrum, which made it hard for us to generate steady sales cycles. Drupal has a substantial overhead to "just get started", which can make it hard to deal with smaller budgets.
 
 ### A few other factors
 
