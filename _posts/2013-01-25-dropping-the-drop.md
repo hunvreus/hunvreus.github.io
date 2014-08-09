@@ -58,7 +58,7 @@ We may be wrong and that doesn't matter after all. But if I were to consider thi
 
 [Stackoverflow trend for the Drupal tag](http://makingdataeasy.com/stackoverflow-trends?t=drupal)
 
-This is not a hate post, I just felt I owed it to people around me to explain our choice. This may be usefyl to others as they evaluate what's best for their project, especially given the strong attitude of "you can build anything with Drupal (tm)" that runs within the community.
+This is not a hate post, I just felt I owed it to people around me to explain our choice. This may be useful to others as they evaluate what's best for their project, especially given the strong attitude of "you can build anything with Drupal (tm)" that runs within the community.
 
 I have additional thoughts on why things are the way they are, but I won't share them publicly. I'm happy discussing this in private though.
 
