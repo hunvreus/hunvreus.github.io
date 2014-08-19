@@ -19,3 +19,11 @@ Meet a lot of people
 Kind of destroy your privacy and routine
 But good > out of comfort zone
 Map of trips for the past 6 months
+
+- How this got started
+
+- What it looks like (map)
+
+- Why?
+
+- A few things to be aware of
