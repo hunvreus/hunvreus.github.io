@@ -19,10 +19,17 @@ Now you can always pull out the joker card; the ["avocado lady"](http://shanghai
 This leads me to the little circuit that I've starting following about 5 years ago; get my running gears on, grab my backpack and run down the Tianzifang area. I usually get a good mix of greens, meat, nuts and dried fruits;
 
 1. **涂跃华's shop on Ruijin lu (#223)**; it's been my go-to shop for nuts and dried fruits for a solid 5 years now. I especially recommend the roasted almonds, chestnuts, dried bananas and apricots. I usually fill up on these babies before hopping on a plane; try mixing apricots and almonds, it's addictive. If you're the paleo diet, go easy on these though since they contain sugar and carbs.
+
     ![Nuts and fruits](http://teddy.fr/files/paleo/nuts.jpg)
+
 1. **Covered market on Taikang lu**; this market is located on Taikang lu, right about the middle of the street. If you exit from Tianzifang, you should have no issue finding it. Get in through the West entrance, go straight towards the center of it and try to find the lady from the picture below; she has a list of vegetables in English and their equivalent in Chinese. You'll be able to stack up on fresh mint, basil, persil, avocado, lemongrass, all kind of salads (roman, iceberg...) as well as the more regular stuff (peppers, garlic, mushrooms, lemons...). Her products look really good and she's definitely fun to chat with; I've been to that location for a good 5 years too. I don't really buy fruits anymore but there are stands for that too, along with some selling spices and sauces. 
+
     ![Greens](http://teddy.fr/files/paleo/veggies.jpg)
+
 1. **City Shop on Taikang lu**; this one is a new one on my list. Now, I am not a big fan of City Shop, I find it overpriced. However there are a few things that you just can't find in regular Chinese supermarkets (jalapenos, pickles, cheese...). When going to this specific one I stick to a few specific items: meat. They have a great deal on italian sausages (spicy, sweet and regular), averaging at 14 RMB for three big babies that will fill you up. You also can get some dried meat there; the (local) Yurun brand has decent salami, coppa and the likes.
+
     ![Spicy sausages](http://teddy.fr/files/paleo/sausages.jpg)
+
     ![Dried meat from Yurun](http://teddy.fr/files/paleo/yurun.jpg)
+    
 I have quite a few other locations I go to, but I'll save it for a later. In the meantime, [I've put these places on a map](http://tiles.mapbox.com/wiredcraft/map/map-bnlz25lj) to help you find the good stuff; enjoy.
