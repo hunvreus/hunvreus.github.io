@@ -2,6 +2,7 @@
 title: How to be awesome and get shit done
 layout: post
 comments: true
+image: /files/mr-awesome.jpg
 ---
 
 [![Mr Awesome](/files/mr-awesome.jpg)](https://www.instagram.com/p/BGwZq6RlifG/?taken-by=hunvreus)

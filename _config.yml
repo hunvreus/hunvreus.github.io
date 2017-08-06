@@ -1,5 +1,34 @@
----
-exclude: ['README.markdown']
+# Site settings
+title: "Ronan Berder's blog"
+email: "info@wiredcraft.com"
+description: Rambles about entrepreneurship, China, tech and design
+baseurl: ""
+url: "http://teddy.fr"
+keywords:
+- China
+- design
+- technology
+- entrepreneurship
+
+# SEO
+twitter:
+  username: hunvreus
+logo: /images/logo.png
+social:
+  name: Ronan Berder
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://plus.google.com/+BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
+
+# Build settings
+exclude: ['README.md']
 permalink: pretty
-pygments: true
-safe: false
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
