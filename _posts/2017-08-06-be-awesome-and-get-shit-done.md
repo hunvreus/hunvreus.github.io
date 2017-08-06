@@ -4,18 +4,18 @@ layout: post
 comments: true
 ---
 
+[![Mr Awesome](/files/mr-awesome.jpg)](https://www.instagram.com/p/BGwZq6RlifG/?taken-by=hunvreus)
+
 I am known for being disciplined and getting stuff done. If you throw shit at me, I'll sort it out. While I'm officially the CEO at [Wiredcraft](https://wiredcraft.com), **I usually refer to myself as the CJO: Chief Janitor Officer**.
 
 There's no real secret to it. It's a boring mix of habits, behaviors and rules that I've adopted over the years. But since I often get asked how I do it, here is my 2 cents...
 
-### Disclaimers
+## Disclaimers
 
 1. **I do not consider myself successful (yet)** or perfect in any way. With that being said, I do have strong opinions about a few things that I think help me be less clueless.
 2. **Most of what I'm about to tell you will probably be lost on you**. It's very likely that my advices are misguided, inadequate or biased. But more importantly, you'll most likely disregard them and do whatever you want.
 
-### Eat your greens, go to bed early and exercise
-
-![My workout buddies](/files/jingan-park.jpg)
+## Eat your greens, go to bed early and exercise
 
 Your mom told you this since you were a kid and yet you don't do it. Just eat your damn veggies and go to bed early. It makes a world of difference.
 
@@ -25,9 +25,11 @@ I go to bed at 10:30 PM most days, and wake up around 5:30 or 6:00 AM. I hit the
 
 I do calisthenics, with lots of HIIT and some cardio. I usually wrap it up in 30 to 40 minutes, after which I run back home and get ready for work.
 
-### No booze
+## No booze
 
 You're not gonna like this one. Just so you know, I never had a problem with alcohol, I just lost interest.
+
+*I actually also quit coffee and tea last year.*
 
 Not drinking has had a tremendously positive impact on my physical and mental health. I furiously enjoy never waking up at noon with a headache and clothes reeking of cigarette smoke.
 
@@ -41,7 +43,7 @@ In the best case, people treat you as if you were handicapped or depriving yours
 
 But more often than not, they simply feel uncomfortable. Especially about booze. Folks regularly try to pressure me into having "just one drink".
 
-### Less is more
+## Less is more
 
 You only have so much focus. Don't spread yourself thing by maintaining too many relations, working on too many things at the same or trying to make too many changes altogether.
 
@@ -49,7 +51,7 @@ For example, the best sales people aren't the ones who cold email a hundreds fol
 
 Less stuff, less people in your life, less noise... All these things that you think you need and you're encouraged to pile up end up making you weaker. [I wrote about that before](http://teddy.fr/2013/02/10/about-not-owning-shit/).
 
-### One step at a time
+## One step at a time
 
 Lots of folks just do one of two things;
 
@@ -64,7 +66,7 @@ Look at the few small things you can get started on now and focus on that.
 
 **Most importantly, build a routine**. You want to be consistent until you do things without having to think too much about it.
 
-### Focus
+## Focus
 
 Fuck the noise.
 
@@ -76,7 +78,7 @@ Focus is a conscious effort you'll need to be consistently applying against your
 
 Don't multitask and don't deviate. Pick one thing, work on it until it's good enough and move on.
 
-### Everything is a goddam pipeline
+## Everything is a goddam pipeline
 
 Most processes can be modeled as pipelines. I could write an entire post just on this topic (and I may just do that).
 
@@ -90,7 +92,7 @@ While doing that, you'll want to have a certain scientific rigor to it. Every ti
 
 That's the idea at the core of the [scientific method](https://en.wikipedia.org/wiki/Scientific_method). That's [how we design products at Wiredcraft](https://wiredcraft.com/blog/how-we-design-products/), how we run our marketing and how I myself figured out a lot of things about my own life.
 
-### Remove yourself from the equation
+## Remove yourself from the equation
 
 **You. Don't. Have. A. Fucking. Choice.**
 
@@ -110,7 +112,7 @@ You are not here to decide: your opinion or feelings don't matter. You just have
 
 That may sound borderline crazy, but it works wonders.
 
-### Don't be a wuss... seriously.
+## Don't be a wuss... seriously.
 
 Just don't.
 
@@ -126,7 +128,7 @@ Wanna get a six-pack? No amount of "beach body in 3 weeks" articles in GQ will g
 
 So don't be a wuss. Cause wusses don't get shit done. Wusses don't get to be awesome.
 
-### One big caveat
+## One big caveat
 
 I actually think that last point (don't be a wuss) is the most important one. It takes grit and discipline to get shit done.
 
@@ -148,7 +150,7 @@ You can get better, but for this you'll need grit. If you don't have it in you, 
 
 Keep in mind that like many other things in life, luck plays a major part in things (and luck ain't known to be particularly fair).
 
-### To sum it up
+## To sum it up
 
 - Take care of your body first,
 - Take it one step at a time,
@@ -157,7 +159,7 @@ Keep in mind that like many other things in life, luck plays a major part in thi
 - Apply the scientific dialectic (bouncing between theory and experiments),
 - Remove yourself from the decision process,
 - Don't be a wuss (seriously),
-- Foster grit.
+- Cultivate grit.
 
 In a nutshell: **Don't be a wuss. Be awesome<sup>TM</sup>**.
 
