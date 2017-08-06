@@ -17,12 +17,10 @@ logo: /images/logo.png
 social:
   name: Ronan Berder
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://www.facebook.com/profile.php?id=100006671895640
+    - https://twitter.com/hunvreus
+    - https://cn.linkedin.com/in/ronanberder
+    - https://github.com/hunvreus
 
 # Build settings
 exclude: ['README.md']
