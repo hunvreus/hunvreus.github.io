@@ -2,6 +2,7 @@
 title: How to be awesome and get shit done
 layout: post
 comments: true
+description: A simple mix of habits, behaviors and rules that help me stay on top of my game and handle what is thrown at me.
 image: /files/mr-awesome.jpg
 ---
 
