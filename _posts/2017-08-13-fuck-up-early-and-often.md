@@ -113,3 +113,5 @@ Keep in mind the following;
 - Mostly, you’ll fuck up on your own. And you’ll get to a point where you’re comfortable fucking up and dealing with it. The trick, I think is to fuck up as quickly as possible and moving on to the next opportunity for a fuck up.
 -
 - Honestly; stop going to startup events in hope that you’ll become better or more successful. Just go fuck up like a man (or a woman) and figure it out like the rest of us do; by doing.
+
+<iframe src="https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
