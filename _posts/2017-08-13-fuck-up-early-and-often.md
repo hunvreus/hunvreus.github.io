@@ -119,6 +119,4 @@ Keep in mind the following;
 
 **Honestly; stop going to startup events in hope that you’ll become better or more successful. Just go fuck up like a man (or a woman) and figure it out like the rest of us do; by doing**.
 
-*You can [find my slides online](https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/edit?usp=sharing):*
-
-<p><iframe src="https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+*You can [find my slides online](https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/edit?usp=sharing).*
