@@ -9,9 +9,9 @@ I was asked a few weeks ago to share my experience at [Fuckup Nights Shanghai](h
 
 Problem is: I've fucked up so many times since I arrived in China in 2005, I struggled to pick any specific anecdote. I decided to not choose and simply tell the many ways I fucked up on my way to creating and growing my company, [Wiredcraft](https://wiredcraft.com).
 
-<p><iframe src="https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
-
 ## Fuck up #1: Working for the wrong people
+
+<img src='/files/bad-boss.gif' width='100%'/>
 
 Until 2009, I was the MD of a Canadian digital agency. We had some interesting clients, plenty of demand and went from 5 to 20 in about a year.
 
@@ -24,6 +24,8 @@ I paid off some of it with my own savings and inherited a couple tables and desk
 So I started to freelance.
 
 ## Fuck up #2: Starting my own business
+
+<img src='/files/like-a-boss.gif' width='100%'/>
 
 Freelancing was going well and about 2 months in I had managed to round up a couple people working out of my living room (“the office”).
 
@@ -39,6 +41,8 @@ I had no idea what I was doing and it’s amazing I didn’t burst in flames bac
 
 ## Fuck up #3: Breaking our business model
 
+<img src='/files/wave.gif' width='100%'/>
+
 We had been using a popular PHP framework and had created a nice niche for ourselves. We had happy customers, a good reputation within this niche and even received a couple acquisition offers.
 
 That’s about when I had the dumb idea to move entirely away from our current stack and start using completely new and unproven technology (Node.js).
@@ -53,6 +57,8 @@ This wasn’t happy time: we were struggling to find clients or had no idea how 
 
 ## Fuck up #4: Letting a client fuck us over
 
+<img src='/files/the-office-no.gif' width='100%'/>
+
 In 2010, we started working for non-profits and international development clients. Think World Bank, United Nations etc.
 
 I spent my time traveling back and forth between the US and China. We got to do truly amazing things, starting with creating the software to run the South Sudan referendum. We effectively helped creating the newest country on earth.
@@ -66,6 +72,8 @@ It got us to a point where our main client (the UN) mismanaged one of their proj
 It got so bad that I had to simply walk away without getting paid. At some point, we had about 5 weeks of cashflow. We almost died.
 
 ## Fuck up #5: Losing focus
+
+<img src='/files/mexican-hat.gif' width='100%'/>
 
 For close to 3 years, I and a few other folks on my team, spent a ton of time trying to create SaaS products. We probably made all the mistakes that you could think of. For the sake of brevity:
 
@@ -85,6 +93,8 @@ We went through the whole process; created a C-corp, prepared shares, ran due di
 
 ## Fuck up #6: Breaking our business model, again
 
+<img src='/files/jericho-missile.gif' width='100%'/>
+
 Yes: I’m a moron.
 
 After passing on the investment offer, we committed to focus on the consulting business and drop any other project.
@@ -94,6 +104,8 @@ And at the same time, we also decided to completely kill our sales channel by dr
 Once again, we had no idea how to advertise ourselves, where to find our clients or how to convince them. We had no sales channels, no relevant portfolio and no idea how we’d make it through.
 
 ## Lessons
+
+<img src='/files/cat-piano.gif' width='100%'/>
 
 The list is much longer ; just last year I lost 60k USD on a new office by fucking up on the contract, and ending up with a landlord going bankrupt along with our deposit.
 
@@ -106,3 +118,7 @@ Keep in mind the following;
 - Mostly, you’ll fuck up on your own. And you’ll get to a point where you’re comfortable fucking up and dealing with it. The trick, I think is to fuck up as quickly as possible and moving on to the next opportunity for a fuck up.
 
 **Honestly; stop going to startup events in hope that you’ll become better or more successful. Just go fuck up like a man (or a woman) and figure it out like the rest of us do; by doing**.
+
+*You can [find my slides online](https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/edit?usp=sharing):*
+
+<p><iframe src="https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="422" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
