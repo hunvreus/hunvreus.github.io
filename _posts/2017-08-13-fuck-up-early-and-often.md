@@ -2,7 +2,8 @@
 title: Fuck up early and often
 layout: post
 comments: true
-description:
+description: Fucking up regularly while growing my company made more resilient and business savvy.
+image: /files/ronan-jsconf.jpg
 ---
 
 I was asked a few weeks ago to share my experience at [Fuckup Nights Shanghai](https://fuckupnights.com/event/fuckup-nights-shanghai/).
