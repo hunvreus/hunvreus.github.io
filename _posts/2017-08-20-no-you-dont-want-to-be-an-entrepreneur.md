@@ -3,7 +3,7 @@ title: No, you don't wanna be an entrepreneur
 layout: post
 comments: true
 description: "I'm often asked for advices on entrepreneurship, and the short answer is usually: don't do it."
-image: /files/7-outcomes.jpg
+image: /files/entrepreneurship-no/7-outcomes.jpg
 ---
 
 A few months ago, I gave a very last minute talk at Barcamp Shanghai. I decided to try and walk people through what I think of entrepreneurship and why I recommend most people **not** to do it.
