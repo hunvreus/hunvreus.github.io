@@ -181,7 +181,7 @@ I may be wrong. Some folks get lucky. But luck is not a business model..
 
 Ultimately, the ones who do **just do it**. They may brag about it once it worked and often only because they have to.
 
-I don't have any advice about what you should or should not do. If I had, I would charge you for it (I'm an "entrepreneur", remember?). But I do often recognize entrepreneurship when I meet it, and [it does not start with wanting to be "an entrepreneur"](http://localhost:4000/2012/12/19/entrepreneurs-and-entrepreneurship/).
+I don't have any advice about what you should or should not do. If I had, I would charge you for it (I'm an "entrepreneur", remember?). But I do often recognize entrepreneurship when I meet it, and [it does not start with wanting to be "an entrepreneur"](/2012/12/19/entrepreneurs-and-entrepreneurship/).
 
 Most of you shouldn't be entrepreneur, and that's fine. It's neither admirable nor desirable. I've met a great many businesses, and most of them are started by one or a few individuals, but they ultimately succeed thanks to a team.
 
