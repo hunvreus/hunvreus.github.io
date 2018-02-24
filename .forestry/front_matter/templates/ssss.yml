@@ -1,0 +1,10 @@
+---
+hide_body: false
+fields:
+- type: text
+  hidden: true
+  config:
+    required: true
+  label: My label
+  name: my_label
+  description: Stuff
