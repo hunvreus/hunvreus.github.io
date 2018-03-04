@@ -11,3 +11,6 @@ fields:
 - type: boolean
   name: sfsdfdsfdsfsdfdsf
   label: sfsdfdsfdsfsdf
+- type: file
+  name: image
+  label: IMage
