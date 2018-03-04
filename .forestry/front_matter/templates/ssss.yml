@@ -8,3 +8,6 @@ fields:
   label: My label
   name: my_label
   description: Stuff
+- type: boolean
+  name: sfsdfdsfdsfsdfdsf
+  label: sfsdfdsfdsfsdf
