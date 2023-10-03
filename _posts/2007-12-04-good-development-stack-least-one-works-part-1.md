@@ -10,7 +10,7 @@ Note: even if I also do some Java and Ruby (real beginner for this last one), wh
 
 ### Develop
 
-![Screenshot of Eclipse](http://teddy.fr/files/eclipse.png)
+![Screenshot of Eclipse](/files/eclipse.png)
 
 I must admit that I now almost exclusively code with [Eclipse](http://www.eclipse.org/); it is Open-Source, works on any platform and supports pretty much any kind of language. I especially appreciate the abundance of extensions.
 
@@ -24,7 +24,7 @@ This being said, I still occasionally use [Notepad++](http://notepad-plus.source
 
 ### Test and publish
 
-![AMP](http://teddy.fr/files/lamp.png)
+![AMP](/files/lamp.png)
 
 Once you've written some code, you're gonna have to test it. If you are running Mac OS, Apache and PHP are already installed. If you are using Linux, well you should know how to install the damn thing. For Windows users, you can use [XAMPP](http://www.apachefriends.org/en/xampp.html). However, if this is something bigger than a simple module or Web application, let's say a Web community, I think being able to recreate the exact conditions in which your code will be deployed is essential. Here enter [VMware](http://www.vmware.com/) and [Xen](http://www.xen.org). These will allow you to run virtual machines on your computer, which means you can emulate your server and test your developments locally. This also may be interesting for teams; each developer can have a virtual server running on his own computer for unit testing, a test server can then be reserved for integration testing (that is something that I've always wanted to implement in my previous companies, but which never got approved by my managers... yet).
 

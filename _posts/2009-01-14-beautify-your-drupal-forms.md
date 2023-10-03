@@ -4,7 +4,7 @@ title: "Beautify your Drupal forms"
 comments: true
 ---
 
-![A beautified form](http://teddy.fr/files/formstut/beautified_form.png)
+![A beautified form](/files/formstut/beautified_form.png)
 
 There are a lot of small details that reveals if a website has been built with Drupal; I often detect them pretty quickly when landing on a page. The URL structure, the search form, the user login page... all of these tend to be pretty Drupal-ish, except when some time has been spent in theming and styling.
 
@@ -88,7 +88,7 @@ Here is an example of the display you should have:
 
 Now, you can easily use the same kind of method on many other elements, including menus, like the local tasks. Let me illustrate this with a screenshot from a recent project:
 
-![Example of menu styling](http://teddy.fr/files/formstut/menu.png)
+![Example of menu styling](teddy.fr/files/formstut/menu.png)
 
 ### Field descriptions as popups
 

@@ -7,7 +7,7 @@ comments: true
 
 CartoDB + OpenPaths
 
-About 20 months ago I decided to not rent a place anymore. I was wrapping up a few business meetings in Washington DC and ralized my lease for my places in both SF and Shanghai were up for renewal, roughly at the same time. I decided I wouldn't renew them; [I had already been reducing my possessions to a bare minimum](http://teddy.fr/2013/02/10/about-not-owning-shit/) and I thought this was just the next logical step.
+About 20 months ago I decided to not rent a place anymore. I was wrapping up a few business meetings in Washington DC and ralized my lease for my places in both SF and Shanghai were up for renewal, roughly at the same time. I decided I wouldn't renew them; [I had already been reducing my possessions to a bare minimum](/2013/02/10/about-not-owning-shit/) and I thought this was just the next logical step.
 
 ### Why the hell would you do that?
 

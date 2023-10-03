@@ -51,7 +51,7 @@ You only have so much focus. Don't spread yourself thing by maintaining too many
 
 For example, the best sales people aren't the ones who cold email a hundreds folks. The best friggin' sales folks are the ones who drive half of the revenue for the team by focusing on a tenth of that number.
 
-Less stuff, less people in your life, less noise... All these things that you think you need and you're encouraged to pile up end up making you weaker. [I wrote about that before](http://teddy.fr/2013/02/10/about-not-owning-shit/).
+Less stuff, less people in your life, less noise... All these things that you think you need and you're encouraged to pile up end up making you weaker. [I wrote about that before](/2013/02/10/about-not-owning-shit/).
 
 ## One step at a time
 

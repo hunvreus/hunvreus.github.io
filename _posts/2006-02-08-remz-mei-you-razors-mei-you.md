@@ -4,7 +4,7 @@ title: "Remz ? Mei you. Razors ? Mei you."
 comments: true
 ---
 
-![Old skates](http://teddy.fr/files/oldSkates.jpg)
+![Old skates](/files/oldSkates.jpg)
 
 Shanghai drives me crazy sometimes. We here have a 70 Million RMB skatepark (more than 8 Million US$) but no correct skate shop. You sure can find some boards and fitness skates at the Century Park subway station but nothing really serious, as far as I know.
 

@@ -4,7 +4,7 @@ title: "Leaving notes on pictures a la Flickr with Drupal"
 comments: true
 ---
 
-![Flickr-like annotations](http://teddy.fr/files/image_annotate.png)
+![Flickr-like annotations](/files/image_annotate.png)
 
 I just released the first official version of my [Image Annotate module](http://drupal.org/project/image_annotate); in a nutshell it allows users to select an area on a picture and associate a note to it. Flickr has been doing it for a while and Facebook uses the same kind of system for allowing its users to tag friends in pictures. This module uses the [jQuery UI library](http://jqueryui.com) and works with [Imagefield](http://drupal.org/project/imagefield) for the moment. If you want to see it in action, [go have a look on the test website](http://d6.wiredcraft.com/image-annotate). If you sign in using OpenID, you will be able to add new pictures, but even anonymous users can add notes to existing pictures.
 

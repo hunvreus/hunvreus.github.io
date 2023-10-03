@@ -4,10 +4,10 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>Ronan Berder</title>
- <link href="http://teddy.fr/atom.xml" rel="self"/>
- <link href="http://teddy.fr/"/>
+ <link href="https://ronanberder.com/atom.xml" rel="self"/>
+ <link href="https://ronanberder.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://teddy.fr/</id>
+ <id>https://ronanberder.com/</id>
  <author>
    <name>Ronan Berder</name>
    <email>hunvreus@gmail.com</email>
@@ -15,9 +15,9 @@ layout: null
  {% for post in site.posts limit:10 %}
    <entry>
      <title>{{ post.title | xml_escape }}</title>
-     <link href="http://teddy.fr{{ post.url }}"/>
+     <link href="https://ronanberder.com{{ post.url }}"/>
      <updated>{{ post.date | date_to_xmlschema }}</updated>
-     <id>http://teddy.fr{{ post.id }}</id>
+     <id>https://ronanberder.com{{ post.id }}</id>
      <content type="html">{{ post.content | xml_escape }}</content>
    </entry>
  {% endfor %}

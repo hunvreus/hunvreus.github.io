@@ -7,11 +7,11 @@ published: true
 
 As I already explained in a [previous post](/2009/04/16/theming-almost-hidden/), I am very fond of spending time improving things that don't usually get a lot attention from Drupal developers and themers. Even if many of the interfaces shipped by default in Drupal provide a very systematic and procedural environment for administrating the content, you sometimes need to add a bit of gloss to make things prettier and easier to use for your clients. When I start a project, I invariably add a bunch of theme overrides, CSS files and small scripts that help me reach that goal. This time I am going to expose the technique I use to beautify the upload form for file attachments. Here is what it looks like when I am done:
 
-![My beautified File Attachments form](http://teddy.fr/files/file_attachments.gif)
+![My beautified File Attachments form](/files/file_attachments.gif)
 
 ### The problem(s)
 
-![File attachments form issues](http://teddy.fr/files/file_attachments_issues.gif)
+![File attachments form issues](/files/file_attachments_issues.gif)
 
 In my (very) own opinion, the default file attachments form, even if very functional, suffers from a few main problems :
 
@@ -33,7 +33,7 @@ The result can be seen in the picture posted at the top of this post.
 
 ### How to?
 
-By hacking the core upload module of course! More seriously, this is mainly done by overriding theming functions (I am a big fan of overriding pretty much anything I can). Attached to that post, you will find the [archive of a folder named "upload"](http://teddy.fr/files/upload.zip) that you can dump in you theme's folder. This folder contains almost everything that you need: CSS and JS files, images... On top of that, you will need to do two things:
+By hacking the core upload module of course! More seriously, this is mainly done by overriding theming functions (I am a big fan of overriding pretty much anything I can). Attached to that post, you will find the [archive of a folder named "upload"](/files/upload.zip) that you can dump in you theme's folder. This folder contains almost everything that you need: CSS and JS files, images... On top of that, you will need to do two things:
 
 - **Add the upload.css file to your theme** by adding the following line into your theme's *.info* file: 
 
@@ -146,7 +146,7 @@ By hacking the core upload module of course! More seriously, this is mainly done
           }
         }
 
-That's quite a lot of code: you can find it in the *[template.php.txt](http://teddy.fr/files/template.php.txt)* file attached to this post.
+That's quite a lot of code: you can find it in the *[template.php.txt](/files/template.php.txt)* file attached to this post.
 
 Enjoy!
 

@@ -4,7 +4,7 @@ title: "Coder Sprint, or how to have a healthy DrupalCon"
 comments: true
 ---
 
-![Running](http://teddy.fr/files/runner.jpg)
+![Running](/files/runner.jpg)
 
 One thing I realized in DC is that I am not the only geek around concerned about my health; I am vegetarian, exercise every day, run 3 to 4 times a week and overall try to find balance in my life. I love working in the Web industry, however for me and almost everybody else I know working in the same field it means having to spend a huge amount of time sitting in front of a computer (and, for most of my friends, drinking a lot of beer too).
 

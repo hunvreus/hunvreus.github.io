@@ -4,7 +4,7 @@ title: "我的自行车坏掉了吗 ? Papoula, papoula, mecha-bike papoula !"
 comments: true
 ---
 
-![Mecha-bike](http://teddy.fr/files/bike.png)
+![Mecha-bike](/files/bike.png)
 
 No, 白酒 did not drove me crazy to the point I bended my bike with my bare hands. This is actually my last acquisition in Shanghai ; the MECHA-BIKE (dramatic tone), most known as a folding bike (but mecha-bike sounds better).
 

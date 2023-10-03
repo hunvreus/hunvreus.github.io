@@ -7,7 +7,7 @@ comments: true
 
 One small syllable shouldn't make much of a difference after all, but it does. To me at least. I may be misled by arrogance, for I have not been successful enough in my ventures to claim the right to judge others. But still, it annoys me. And if you've met any of my fellow Frenchmen, you know that one way or another I'll need to voice my discontent ("Sacrebleu!"). So be it.
 
-One more hop over the Pacific, two weeks ago, knees stuck to the front seat, face pressed against the screen. I was killing time, remembering once again why I can't seem to sleep on planes, especially now that [I'm a full time sober](http://teddy.fr/2012/11/17/alcohol-personal-growth/). Half way through [The Iron Lady](http://www.rottentomatoes.com/m/the_iron_lady), I pause on a quote attributed to Mrs Thatcher:
+One more hop over the Pacific, two weeks ago, knees stuck to the front seat, face pressed against the screen. I was killing time, remembering once again why I can't seem to sleep on planes, especially now that [I'm a full time sober](/2012/11/17/alcohol-personal-growth/). Half way through [The Iron Lady](http://www.rottentomatoes.com/m/the_iron_lady), I pause on a quote attributed to Mrs Thatcher:
 
 > It used to be about trying to do something; now it's about trying to be someone.
 

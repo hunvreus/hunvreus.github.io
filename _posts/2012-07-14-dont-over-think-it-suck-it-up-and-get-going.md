@@ -4,7 +4,7 @@ title: "Don't Over-Think It, Suck It Up and Get Going"
 published: true
 comments: true
 ---
-<img src="http://teddy.fr/files/brain.png" alt="Thinking too much" align="right"/>
+<img src="/files/brain.png" alt="Thinking too much" align="right"/>
 
 I live mainly by two principles; **kick you own butt** and **don't think too hard**. This is not an attempt to lecture people on "the good way to get things done", just some ramblings about what works for me.
 

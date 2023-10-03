@@ -4,7 +4,7 @@ title: "小熊爱Drupal - when a bear meet a drop"
 comments: true
 ---
 
-![Love Drupal](http://teddy.fr/files/loveDrupal.png)
+![Love Drupal](/files/loveDrupal.png)
 
 I publicly admit my love for this little blue drop : [Drupal](http://www.drupal.org) ROCKS !
 

@@ -12,7 +12,7 @@ We decided to fully use the -moz-border-radius property and PNG format and I mus
 
 Enough talking, taste it :
 
-[![XULFR.org](http://teddy.fr/files/XULFRLogo.png)](http://www.xulfr.org)
+[![XULFR.org](/files/XULFRLogo.png)](http://www.xulfr.org)
 
 By the way I still have to do the same upgrade for the [Planete XULFR.org](http://planete.xulfr.org) website which is supposed to use the same design in a green version (damn, green, I always have a lot of problems with green based designs).
 

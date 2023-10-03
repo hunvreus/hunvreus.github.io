@@ -4,7 +4,7 @@ title: "Google launches SMS search in China"
 comments: true
 ---
 
-![Google mobile](http://teddy.fr/files/google_mobile.png)
+![Google mobile](/files/google_mobile.png)
 
 [Google recently launched its SMS search service in China](http://tech.sina.com.cn/i/2007-11-20/11141862268.shtml). By sending an SMS to <strike>999333</strike> 1069999333 you can now access a huge amount of information; venues addresses, weather forecasts, translation tools...
 
