@@ -16,6 +16,9 @@ content:
       - name: image
         label: Image
         type: image
+      - name: date
+        label: Date
+        type: date
       - name: layout
         type: string
         hidden: true
