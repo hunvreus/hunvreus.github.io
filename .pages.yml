@@ -4,6 +4,8 @@ content:
     label: Posts
     path: _posts
     type: collection
+    view:
+      fields: [ title, date ]
     fields:
       - name: title
         label: Title
