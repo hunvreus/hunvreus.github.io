@@ -1,7 +1,6 @@
 media: files
 content:
   - name: posts
-    icon: align-vertical-justify-start
     label: Posts
     type: collection
     path: _posts
