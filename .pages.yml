@@ -2,7 +2,7 @@ media: files
 content:
   - name: posts
     label: Posts
-    icon: candy
+    icon: BookAudio
     type: collection
     path: _posts
     view:
