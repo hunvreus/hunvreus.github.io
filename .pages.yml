@@ -1,7 +1,7 @@
 media: files
 content:
   - name: posts
-    icon: book-audio
+    icon: align-vertical-justify-start
     label: Posts
     type: collection
     path: _posts
