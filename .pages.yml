@@ -1,6 +1,7 @@
 media: files
 content:
   - name: posts
+    icon: candy
     label: Posts
     type: collection
     path: _posts
