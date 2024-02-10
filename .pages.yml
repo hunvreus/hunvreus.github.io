@@ -2,6 +2,7 @@ media: files
 content:
   - name: posts
     label: Posts
+    icon: WHATEVER
     type: collection
     path: _posts
     view:
