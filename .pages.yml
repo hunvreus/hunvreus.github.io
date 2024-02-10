@@ -1,9 +1,11 @@
-media: files
+media:
+  input: src/media
+  output: /media
 content:
   - name: posts
     label: Posts
     type: collection
-    path: '_posts'
+    path: _posts
     view:
       fields: [ title, published, date ]
     fields:
@@ -20,8 +22,8 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: config
-    label: Jekyll config
+  - name: site
+    label: Site settings
     path: _config.yml
     type: single
     fields:
