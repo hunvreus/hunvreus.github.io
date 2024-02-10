@@ -1,7 +1,7 @@
 media: files
 content:
   - name: posts
-    icon: Candy
+    icon: Book-Audio
     label: Posts
     type: collection
     path: _posts
