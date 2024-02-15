@@ -1,3 +1,4 @@
+sdf: sdf
 media: files
 content:
   - name: posts
@@ -15,4 +16,3 @@ content:
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
-sdf: sdf
