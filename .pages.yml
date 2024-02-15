@@ -4,9 +4,12 @@ content:
     label: Bob
     path: bob
     type: file
+    fields:
+      - name: title
+        type: string
   - name: posts
     label: Posts
-    type: collectiond
+    type: collection
     path: _posts
     view:
       fields: [ title, date ]
