@@ -2,7 +2,7 @@ media: files
 content:
   - name: posts
     label: Posts
-    type: collection
+    type: collectiond
     path: _posts
     view:
       fields: [ title, date ]
