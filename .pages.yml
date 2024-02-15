@@ -1,5 +1,9 @@
 media: files
 content:
+  - name: bob
+    label: Bob
+    path: bob
+    type: file
   - name: posts
     label: Posts
     type: collectiond
