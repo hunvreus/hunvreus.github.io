@@ -4,6 +4,7 @@ content:
     label: Posts
     type: collection
     path: _posts
+    another: broken
     view:
       fields: [ title, date, comments ]
     fields:
