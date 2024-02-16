@@ -2,9 +2,8 @@ media: files
 content:
   - name: posts
     label: Posts
-    type: ollection
+    type: collection
     path: _posts
-    another: broken
     view:
       fields: [ image, title, description, date, comments  ]
     fields:
