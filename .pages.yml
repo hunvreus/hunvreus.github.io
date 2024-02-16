@@ -6,7 +6,7 @@ content:
     path: _posts
     another: broken
     view:
-      fields: [ image, title, date, comments  ]
+      fields: [ image, title, description, date, comments  ]
     fields:
       - { name: title, label: Title, type: string }
       - { name: layout, type: string, hidden: true, default: post }
