@@ -2,7 +2,7 @@ media: files
 content:
   - name: posts
     label: Posts
-    type: collection
+    type: ollection
     path: _posts
     another: broken
     view:
