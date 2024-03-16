@@ -2,17 +2,17 @@
 title: Fuck up early and often
 layout: post
 comments: true
-description: Fucking up regularly while growing my company made more resilient and business savvy.
+description: Fucking up regularly while growing my company made more resilient
+  and business savvy.
 image: /files/ronan-jsconf.jpg
 ---
-
 I was asked a few weeks ago to share my experience at [Fuckup Nights Shanghai](https://fuckupnights.com/event/fuckup-nights-shanghai/).
 
 Problem is: I've fucked up so many times since I arrived in China in 2005, I struggled to pick any specific anecdote. I decided to not choose and simply tell the many ways I fucked up on my way to creating and growing my company, [Wiredcraft](https://wiredcraft.com).
 
 ## Fuck up #1: Working for the wrong people
 
-<img src='/files/bad-boss.gif' width='100%'/>
+![](/files/bad-boss.gif)
 
 Until 2009, I was the MD of a Canadian digital agency. We had some interesting clients, plenty of demand and went from 5 to 20 in about a year.
 
@@ -26,7 +26,7 @@ So I started to freelance.
 
 ## Fuck up #2: Starting my own business
 
-<img src='/files/like-a-boss.gif' width='100%'/>
+![](/files/like-a-boss.gif)
 
 Freelancing was going well and about 2 months in I had managed to round up a couple people working out of my living room (“the office”).
 
@@ -42,7 +42,7 @@ I had no idea what I was doing and it’s amazing I didn’t burst in flames bac
 
 ## Fuck up #3: Breaking our business model
 
-<img src='/files/wave.gif' width='100%'/>
+![](/files/wave.gif)
 
 We had been using a popular PHP framework and had created a nice niche for ourselves. We had happy customers, a good reputation within this niche and even received a couple acquisition offers.
 
@@ -50,15 +50,18 @@ That’s about when I had the dumb idea to move entirely away from our current s
 
 While satisfying (and confusing) on an engineering level, this brought a lot of problems to our company;
 
-- We spent a ton of resources retraining our whole team,
-- We sunk even more time figuring out things with an unproven technology,
-- Most important of all, we struggled to advertise ourself. Nobody was looking for the expertise we were developing.
+*   We spent a ton of resources retraining our whole team,
+    
+*   We sunk even more time figuring out things with an unproven technology,
+    
+*   Most important of all, we struggled to advertise ourself. Nobody was looking for the expertise we were developing.
+    
 
 This wasn’t happy time: we were struggling to find clients or had no idea how to market our services. This effectively nearly killed our entire sales channel.
 
 ## Fuck up #4: Letting a client fuck us over
 
-<img src='/files/the-office-no.gif' width='100%'/>
+![](/files/the-office-no.gif)
 
 In 2010, we started working for non-profits and international development clients. Think World Bank, United Nations etc.
 
@@ -74,15 +77,20 @@ It got so bad that I had to simply walk away without getting paid. At some point
 
 ## Fuck up #5: Losing focus
 
-<img src='/files/mexican-hat.gif' width='100%'/>
+![](/files/mexican-hat.gif)
 
 For close to 3 years, I and a few other folks on my team, spent a ton of time trying to create SaaS products. We probably made all the mistakes that you could think of. For the sake of brevity:
 
-- We over-engineered,
-- We waited too long to launch, while others successfully took over the market,
-- We under marketed ("If you build it, they will come"),
-- We took too long to cut our losses and grew attached to zombie projects,
-- …
+*   We over-engineered,
+    
+*   We waited too long to launch, while others successfully took over the market,
+    
+*   We under marketed ("If you build it, they will come"),
+    
+*   We took too long to cut our losses and grew attached to zombie projects,
+    
+*   …
+    
 
 But most important of all, we were trying to build a couple products AND running a consulting business. We didn’t ace either of these.
 
@@ -94,7 +102,7 @@ We went through the whole process; created a C-corp, prepared shares, ran due di
 
 ## Fuck up #6: Breaking our business model, again
 
-<img src='/files/jericho-missile.gif' width='100%'/>
+![](/files/jericho-missile.gif)
 
 Yes: I’m a moron.
 
@@ -106,7 +114,7 @@ Once again, we had no idea how to advertise ourselves, where to find our clients
 
 ## Lessons
 
-<img src='/files/cat-piano.gif' width='100%'/>
+![](/files/cat-piano.gif)
 
 The list is much longer ; just last year I lost 60k USD on a new office by fucking up on the contract, and ending up with a landlord going bankrupt along with our deposit.
 
@@ -114,10 +122,13 @@ But more than successes, failure and your resilience to it is what defines you a
 
 Keep in mind the following;
 
-- Most advices people will give you are misguided, inadequate or biased.
-- You’ll most likely disregard the advices they’ll give you anyway.
-- Mostly, you’ll fuck up on your own. And you’ll get to a point where you’re comfortable fucking up and dealing with it. The trick, I think is to fuck up as quickly as possible and moving on to the next opportunity for a fuck up.
+*   Most advices people will give you are misguided, inadequate or biased.
+    
+*   You’ll most likely disregard the advices they’ll give you anyway.
+    
+*   Mostly, you’ll fuck up on your own. And you’ll get to a point where you’re comfortable fucking up and dealing with it. The trick, I think is to fuck up as quickly as possible and moving on to the next opportunity for a fuck up.
+    
 
 **Honestly; stop going to startup events in hope that you’ll become better or more successful. Just go fuck up like a man (or a woman) and figure it out like the rest of us do; by doing**.
 
-*You can [find my slides online](https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/edit?usp=sharing).*
+_You can_ [_find my slides online_](https://docs.google.com/presentation/d/1e4Y2btCwLRr2UoHw_PdH_rVakpF5oDNvnKYTkNJBIzU/edit?usp=sharing)_._
