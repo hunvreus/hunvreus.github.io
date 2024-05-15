@@ -1,5 +1,5 @@
-media: files
-content:
+meddia: files
+contednt:
   - name: posts
     label: Posts
     type: collection
