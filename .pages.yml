@@ -1,5 +1,5 @@
 meddia: files
-contednt:
+content:
   - name: posts
     label: Posts
     type: collection
