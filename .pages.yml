@@ -7,7 +7,7 @@ content:
     view:
       fields: [ title, image, description, date, comments  ]
     fields:
-      - { name: title, label: Title, type: string }
+      - { name: title, label: Title, type: string, required: true }
       - { name: layout, type: string, hidden: true, default: post }
       - { name: comments, label: Comments, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
