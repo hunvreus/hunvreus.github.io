@@ -7,10 +7,9 @@ content:
     view:
       fields: [ title, image, description, date, comments  ]
     fields:
+      - { name: image, label: Image, type: image }
       - { name: title, label: Title, type: string, required: true }
       - { name: layout, type: string, hidden: true, default: post }
       - { name: comments, label: Comments, type: boolean, default: true }
       - { name: description, label: Description, type: string, options: { maxlength: 160 } }
-      - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: rich-text }
-error: error
