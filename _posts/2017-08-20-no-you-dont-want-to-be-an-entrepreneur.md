@@ -5,7 +5,6 @@ layout: post
 comments: true
 description: "I'm often asked for advice on entrepreneurship, and the short
   answer is usually: don't do it."
-image: /files/c97f4555-cfd5-4400-b864-f235bb49c2d2.jpeg
 ---
 A few months ago, I gave a very last minute talk at Barcamp Shanghai. I decided to try and walk people through what I think of entrepreneurship and why I recommend most people **not** to do it.
 
