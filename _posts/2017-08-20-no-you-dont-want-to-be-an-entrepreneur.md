@@ -1,6 +1,6 @@
 ---
 title: No, you don't wanna be an entrepreneur
-
+date: 2017-08-20
 layout: post
 comments: true
 description: "I'm often asked for advice on entrepreneurship, and the short
