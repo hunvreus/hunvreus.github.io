@@ -8,4 +8,5 @@ Some of the stuff I'm working on:
 - ✏️ [Pages Editor](https://github.com/pages-cms/editor): A simple, Notion-like editor component for shadcn/ui. Built with TipTap, ProseMirror, and React.
 - ⬇️ [PullNotes](https://github.com/hunvreus/pullnotes): A Notion clone built on top of GitHub.
 - 📖 [ReallySimpleDocs](https://github.com/hunvreus/reallysimpledocs): A really simple documentation template built with 11ty and Tailwind.
-- 📕 [Write the F*cking Manual](https://ronanberder.com/wtfm): A book about writing playbooks to run and grow your business.
+- 🐴 [HTMX tutorial](https://github.com/hunvreus/htmx-ai-chat): A tutorial to learn how to use HTMX by building a simple chat-based AI assistant.
+- 📕 [Write the F*cking Manual](https://ronanberder.com/wtfm): A book about writing playbooks to run and grow your business.hat 
