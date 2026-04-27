@@ -24,19 +24,3 @@ npm run build
 ```
 
 The static site is generated in `dist/`.
-
-## Cloudflare Workers
-
-This site is static. Astro builds it into `dist/`, then Wrangler deploys that directory to Cloudflare Workers Static Assets. There is no custom Worker code.
-
-Preview the Worker locally:
-
-```sh
-npm run workers:preview
-```
-
-Deploy:
-
-```sh
-npm run deploy
-```
