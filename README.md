@@ -1,8 +1,8 @@
 # Ronan Berder's blog
 
-This is the code for my peronsl blog: https://ronanberder.com
+This is the code for my personal blog: https://ronanberder.com
 
-It started on Drupal (hosted on MediaTemple), then moved on to Jekyll (hosted on GitHub Pages) and is now built with Astro (on Cloudflare Pages).
+It started on Drupal (hosted on MediaTemple), then moved on to Jekyll (hosted on GitHub Pages), and is now built with Astro and deployed on Cloudflare Workers Static Assets.
 
 Important bits:
 
@@ -26,6 +26,8 @@ npm run build
 The static site is generated in `dist/`.
 
 ## Cloudflare Workers
+
+This site is static. Astro builds it into `dist/`, then Wrangler deploys that directory to Cloudflare Workers Static Assets. There is no custom Worker code.
 
 Preview the Worker locally:
 
