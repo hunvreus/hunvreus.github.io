@@ -1,6 +1,14 @@
-# ronanberder.com
+# Ronan Berder's blog
 
-Personal blog built with [Astro](https://astro.build/).
+This is the code for my peronsl blog: https://ronanberder.com
+
+It started on Drupal (hosted on MediaTemple), then moved on to Jekyll (hosted on GitHub Pages) and is now built with Astro (on Cloudflare Pages).
+
+Important bits:
+
+- Posts live in `src/posts/`.
+- The site URL is configured in `src/lib/site.js`.
+- Files (images, attachments, etc) are in `public/files`. We configure headers for them in `public/_headers`.
 
 ## Development
 
@@ -30,13 +38,3 @@ Deploy:
 ```sh
 npm run deploy
 ```
-
-This uses Workers Static Assets. Static headers are configured in `public/_headers`, which Astro copies into `dist/_headers`.
-
-The canonical site URL is configured in `src/lib/site.js`.
-
-## Content
-
-- Posts live in `src/posts/`.
-- Public post files stay in `public/files/` and are served from `/files/...`.
-- Layout assets live in `public/assets/` and are served from `/assets/...`.
