@@ -1,0 +1,17 @@
+{
+  "name": "ronanberder.com",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "workers:preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.2",
+    "astro": "^6.1.9",
+    "wrangler": "^4.85.0"
+  }
+}

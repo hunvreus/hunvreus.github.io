@@ -1,0 +1,43 @@
+---
+import "../assets/reset.css";
+import "../assets/style.css";
+import { site } from "../lib/site.js";
+
+const { title = site.title, description = site.description } = Astro.props;
+const pageTitle = title === site.title ? title : `${title} | ${site.title}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={new URL(Astro.url.pathname, site.url)} />
+    <meta name="twitter:card" content="summary" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, site.url)} />
+    <link rel="alternate" title="Ronan Berder" type="application/atom+xml" href="/atom.xml" />
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114.png" />
+  </head>
+  <body>
+    <nav id="header">
+      <h1><a href="/">{site.title}</a></h1>
+      <p id="about">I am Ronan Berder. I have a knack for technology and aesthetics. I founded <a href="http://wiredcraft.com">Wiredcraft</a> and am now working on <a href="http://devo.ps">devo.ps</a>, stretching myself between San Francisco and Shanghai.</p>
+      <ul id="links">
+        <li class="linkedin"><a href="http://cn.linkedin.com/in/ronanberder">Ronan Berder's LinkedIn profile</a></li>
+        <li class="twitter"><a href="http://twitter.com/hunvreus">Ronan Berder's Twitter account</a></li>
+        <li class="rss"><a href="/atom.xml">Ronan Berder's blog RSS feed</a></li>
+      </ul>
+    </nav>
+    <div id="content">
+      <slot />
+    </div>
+  </body>
+</html>

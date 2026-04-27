@@ -1,0 +1,18 @@
+---
+import PostLayout from "../layouts/PostLayout.astro";
+import { allPosts } from "../lib/posts.js";
+
+export function getStaticPaths() {
+  return allPosts().map((post) => ({
+    params: { slug: post.url.replace(/^\/|\/$/g, "") },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const PostContent = post.Content;
+---
+
+<PostLayout post={post}>
+  <PostContent />
+</PostLayout>

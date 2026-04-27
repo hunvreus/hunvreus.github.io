@@ -1,12 +1,42 @@
-I moved to China in 2005, lived there for 17 years, started a business, grew it to 160+ people and sold it. I'm now based in Singapore and back to building products.
+# ronanberder.com
 
-Some of the stuff I'm working on:
+Personal blog built with [Astro](https://astro.build/).
 
-- /→ [/dev/push](https://github.com/hunvreus/devpush): An open source alternative to Vercel and Render, allowing you to deploy your apps straight from GitHub.
-- 🎨 [Basecoat](https://github.com/hunvreus/basecoat): A components library built with Tailwind CSS that works with any web stack.
-- 📄 [Pages CMS](https://github.com/pages-cms/pages-cms): The No-Hassle CMS for Static Sites Generators
-- ✏️ [Pages Editor](https://github.com/pages-cms/editor): A simple, Notion-like editor component for shadcn/ui. Built with TipTap, ProseMirror, and React.
-- ⬇️ [PullNotes](https://github.com/hunvreus/pullnotes): A Notion clone built on top of GitHub.
-- 📖 [ReallySimpleDocs](https://github.com/hunvreus/reallysimpledocs): A really simple documentation template built with 11ty and Tailwind.
-- 🐴 [HTMX tutorial](https://github.com/hunvreus/htmx-ai-chat): A tutorial to learn how to use HTMX by building a simple chat-based AI assistant.
-- 📕 [Write the F*cking Manual](https://ronanberder.com/wtfm): A book about writing playbooks to run and grow your business.hat 
+## Development
+
+```sh
+npm install
+npm run dev
+```
+
+## Build
+
+```sh
+npm run build
+```
+
+The static site is generated in `dist/`.
+
+## Cloudflare Workers
+
+Preview the Worker locally:
+
+```sh
+npm run workers:preview
+```
+
+Deploy:
+
+```sh
+npm run deploy
+```
+
+This uses Workers Static Assets. Static headers are configured in `public/_headers`, which Astro copies into `dist/_headers`.
+
+The canonical site URL is configured in `src/lib/site.js`.
+
+## Content
+
+- Posts live in `src/posts/`.
+- Public post files stay in `public/files/` and are served from `/files/...`.
+- Layout assets live in `public/assets/` and are served from `/assets/...`.

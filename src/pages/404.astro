@@ -1,0 +1,26 @@
+---
+import "../assets/reset.css";
+import "../assets/style.css";
+import { site } from "../lib/site.js";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>404 - Not found | {site.title}</title>
+    <meta name="description" content="This page does not exist." />
+    <link rel="canonical" href={new URL("/404/", site.url)} />
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+  </head>
+  <body class="not-found-page">
+    <main class="not-found" aria-labelledby="not-found-title">
+      <a class="not-found-logo" href="/">{site.title}</a>
+      <h1 id="not-found-title">This page wandered off</h1>
+      <p>Either it moved, never existed, or got lost somewhere between Shanghai and Singapore.</p>
+      <p><a href="/">Back to the blog</a></p>
+    </main>
+  </body>
+</html>

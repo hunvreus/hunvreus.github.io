@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { allPosts, formatPostDate } from "../lib/posts.js";
+
+const posts = allPosts();
+const [latest, ...olderPosts] = posts;
+const LatestPost = latest.Content;
+---
+
+<BaseLayout>
+  <article>
+    <time datetime={latest.date.toISOString()}>{formatPostDate(latest.date)}</time>
+    <h2><a href={latest.url}>{latest.title}</a></h2>
+    <LatestPost />
+  </article>
+
+  <div id="archive">
+    <h2>Older posts</h2>
+    <ul id="posts">
+      {olderPosts.map((post) => (
+        <li>
+          <time datetime={post.date.toISOString()}>{formatPostDate(post.date)}</time> &rsaquo;
+          <a href={post.url}>{post.title}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</BaseLayout>

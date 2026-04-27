@@ -1,0 +1,46 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import { formatPostDate, allPosts } from "../lib/posts.js";
+
+const { post } = Astro.props;
+const posts = allPosts();
+const index = posts.findIndex((item) => item.id === post.id);
+const next = posts[index - 1];
+const previous = posts[index + 1];
+---
+
+<BaseLayout title={post.title}>
+  <article>
+    <time datetime={post.date.toISOString()}>{formatPostDate(post.date)}</time>
+    <h2>{post.title}</h2>
+    <slot />
+  </article>
+
+  {post.comments && (
+    <div id="comments">
+      <div id="disqus_thread"></div>
+      <script is:inline>
+        (function() {
+          var d = document, s = d.createElement("script");
+          s.src = "https://teddyfr.disqus.com/embed.js";
+          s.setAttribute("data-timestamp", +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+  )}
+
+  <ul id="pager">
+    {next && (
+      <li>
+        Newer post &rsaquo; <a href={next.url}>{next.title}</a> (<time datetime={next.date.toISOString()}>{formatPostDate(next.date)}</time>)
+      </li>
+    )}
+    {previous && (
+      <li>
+        Older post &rsaquo; <a href={previous.url}>{previous.title}</a> (<time datetime={previous.date.toISOString()}>{formatPostDate(previous.date)}</time>)
+      </li>
+    )}
+  </ul>
+</BaseLayout>

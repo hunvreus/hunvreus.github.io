@@ -1,2 +1,6 @@
 .DS_Store
-_site/
+.astro/
+dist/
+node_modules/
+.npm-cache/
+.wrangler/
